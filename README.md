@@ -18,30 +18,30 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 ## Related Survey
 
-2023_ACL_Survey_Towards Reasoning in Large Language Models: A Survey.
+1. 2023_ACL_Survey_Towards Reasoning in Large Language Models: A Survey.
 [[ACL]](https://aclanthology.org/2023.findings-acl.67/)
 [[GitHub]](https://github.com/jeffhj/LM-reasoning)
 
 
 
-2024_arXiv_Survey_Reasoning with Large Language Models: A Survey.
+2. 2024_arXiv_Survey_Reasoning with Large Language Models: A Survey.
 [[arXiv]](https://arxiv.org/abs/2407.11511)
 
 
-2025_arXiv_Survey_Empowering LLMs with Logical Reasoning: A Comprehensive Survey.
+3. 2025_arXiv_Survey_Empowering LLMs with Logical Reasoning: A Comprehensive Survey.
 [[arXiv]](https://arxiv.org/abs/2502.15652)
 
 
-2025_arXiv_Survey_LLM Inference Enhanced by External Knowledge: A Survey.
+4. 2025_arXiv_Survey_LLM Inference Enhanced by External Knowledge: A Survey.
 [[arXiv]](https://arxiv.org/abs/2505.24377)
 [[GitHub]](https://github.com/MiuLab/KG-Survey)
 
 
-2025_OpenReview_Survey_A Survey on Enhancing Large Language Models with Symbolic Reasoning.
+5. 2025_OpenReview_Survey_A Survey on Enhancing Large Language Models with Symbolic Reasoning.
 [[OpenReview]](https://openreview.net/forum?id=exg4ByWdrM)
 
 
-2025_CSUR_Survey_A Survey of Reasoning with Foundation Models.
+6. 2025_CSUR_Survey_A Survey of Reasoning with Foundation Models.
 [[ACM Computing Surveys]](https://dl.acm.org/doi/full/10.1145/3729218)
 [[arXiv]](https://arxiv.org/abs/2312.11562)
 
