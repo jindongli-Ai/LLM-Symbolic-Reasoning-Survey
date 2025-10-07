@@ -46,46 +46,51 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 [[arXiv]](https://arxiv.org/abs/2312.11562)
 
 
-## 1. Symbolic Formalization
-### 1.1 Formal Logic Translation and Specification
-### 1.2 Formal Verification and Consistency Checking
 
-## 2. Logic Program
-### 2.1 ASP (Answer Set Programming)
-### 2.2 Prolog
 
-## 3. ATP (Automated Theorem Proving)
-### 3.1 Core ATP
-#### 3.1.1 General-Purpose ATP
-#### 3.1.2 Math Theorem Proving
-### 3.2 ATP-related (Application)
-#### 3.2.1 SMT & Constraint-based Reasoning
-#### 3.2.2 Verification & Autoformalization
-#### 3.2.3 Symbolic CoT & Interfaces
-#### 3.2.4 Hybrid Tool-based Reasoning
-#### 3.2.5 Uncertainty Reasoning
 
-## 4. Neuro-Symbolic Integration
-### 4.1 Domain-specific Integration
-#### 4.1.1 Medical
-#### 4.1.2 Others
-### 4.2 Program / Representation Integration
-### 4.3 Self-Training / Learning
-### 4.4 Ontology & Causal Integration
 
-## 5. Planning and Search-guided Reasoning
-### 5.1 Action
-### 5.2 Search-based Reasoning
+## 2. Symbolic Formalization
+### 2.1 Formal Logic Translation and Specification
+### 2.2 Formal Verification and Consistency Checking
 
-## 6. Program Synthesis
-### 6.1 Math
-### 6.2 General-Purpose Programming Code
+## 3. Logic Program
+### 3.1 ASP (Answer Set Programming)
+### 3.2 Prolog
 
-## 7. Tabular
+## 4. ATP (Automated Theorem Proving)
+### 4.1 Core ATP
+#### 4.1.1 General-Purpose ATP
+#### 4.1.2 Math Theorem Proving
+### 4.2 ATP-related (Application)
+#### 4.2.1 SMT & Constraint-based Reasoning
+#### 4.2.2 Verification & Autoformalization
+#### 4.2.3 Symbolic CoT & Interfaces
+#### 4.2.4 Hybrid Tool-based Reasoning
+#### 4.2.5 Uncertainty Reasoning
 
-## 8. Benchmark and Environment
-### 8.1 Benchmark
-### 8.2 Environment
+## 5. Neuro-Symbolic Integration
+### 5.1 Domain-specific Integration
+#### 5.1.1 Medical
+#### 5.1.2 Others
+### 5.2 Program / Representation Integration
+### 5.3 Self-Training / Learning
+### 5.4 Ontology & Causal Integration
+
+## 6. Planning and Search-guided Reasoning
+### 6.1 Action
+### 6.2 Search-based Reasoning
+
+## 7. Program Synthesis
+### 7.1 Math
+### 7.2 General-Purpose Programming Code
+
+## 8. Tabular
+
+## 9. Benchmark and Environment
+### 9.1 Benchmark
+### 9.2 Environment
+
 
 
 
