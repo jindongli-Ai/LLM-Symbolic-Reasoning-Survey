@@ -82,7 +82,6 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ### 6.2 General-Purpose Programming Code
 
 ## 7. Tabular
-### 7.1 xxx
 
 ## 8. Benchmark and Environment
 ### 8.1 Benchmark
