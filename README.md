@@ -46,42 +46,49 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 [[arXiv]](https://arxiv.org/abs/2312.11562)
 
 
+## 1. Symbolic Formalization
+### 1.1 Formal Logic Translation and Specification
+### 1.2 Formal Verification and Consistency Checking
+
+## 2. Logic Program
+### 2.1 ASP (Answer Set Programming)
+### 2.2 Prolog
+
+## 3. ATP (Automated Theorem Proving)
+### 3.1 Core ATP
+#### 3.1.1 General-Purpose ATP
+#### 3.1.2 Math Theorem Proving
+### 3.2 ATP-related (Application)
+#### 3.2.1 SMT & Constraint-based Reasoning
+#### 3.2.2 Verification & Autoformalization
+#### 3.2.3 Symbolic CoT & Interfaces
+#### 3.2.4 Hybrid Tool-based Reasoning
+#### 3.2.5 Uncertainty Reasoning
+
+## 4. Neuro-Symbolic Integration
+### 4.1 Domain-specific Integration
+#### 4.1.1 Medical
+#### 4.1.2 Others
+### 4.2 Program / Representation Integration
+### 4.3 Self-Training / Learning
+### 4.4 Ontology & Causal Integration
+
+## 5. Planning and Search-guided Reasoning
+### 5.1 Action
+### 5.2 Search-based Reasoning
+
+## 6. Program Synthesis
+### 6.1 Math
+### 6.2 General-Purpose Programming Code
+
+## 7. Tabular
+### 7.1 xxx
+
+## 8. Benchmark and Environment
+### 8.1 Benchmark
+### 8.2 Environment
 
 
-## 3. Technical Paradigm
-
-### 3.1 Logic Programming Solvers
-
-### 3.2 SMT/SAT/Constraint Solvers
-
-### 3.3 Theorem Provers
-
-### 3.4 Probabilistic Logic Systems
-
-### 3.5 Graph-Based Logical Reasoners
-
-### 3.6 Numeric-Symbolic Hybrid Solvers
-
-
-## 4. Application
-
-### 4.1 Mathematical Reasoning and Theorem Proving
-
-### 4.2 Legal Reasoning and Regulatory Compliance
-
-### 4.3 Medical Diagnosis and Knowledge Verification
-
-### 4.4 Program Synthesis and Robotic Planning
-
-### 4.5 Safety Constraints and Content Filtering
-
-### 4.6 General Symbolic Reasoning Tasks
-
-
-
-
-
-## 5. Evaluation Methods and Benchmarks
 
 
 
