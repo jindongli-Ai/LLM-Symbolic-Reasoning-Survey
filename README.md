@@ -54,7 +54,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ### 2.1 Formal Logic Translation and Specification
 ### 2.2 Formal Verification and Consistency Checking
 
-## 3. Logic Program
+## 3. Logic Programming
 ### 3.1 ASP (Answer Set Programming)
 ### 3.2 Prolog
 
