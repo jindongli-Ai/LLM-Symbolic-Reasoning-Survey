@@ -59,10 +59,10 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ### 3.2 Prolog
 
 ## 4. ATP (Automated Theorem Proving)
-### 4.1 Core ATP
+### 4.1 Foundation
 #### 4.1.1 General-Purpose ATP
 #### 4.1.2 Math Theorem Proving
-### 4.2 ATP-related (Application)
+### 4.2 Application
 #### 4.2.1 SMT & Constraint-based Reasoning
 #### 4.2.2 Verification & Autoformalization
 #### 4.2.3 Symbolic CoT & Interfaces
@@ -73,12 +73,12 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ### 5.1 Domain-specific Integration
 #### 5.1.1 Medical
 #### 5.1.2 Others
-### 5.2 Program / Representation Integration
-### 5.3 Self-Training / Learning
-### 5.4 Ontology & Causal Integration
+### 5.2 Representation-Level(Program / Representation Integration)
+### 5.3 Learning-Level (Self-Training / Learning)
+### 5.4 Knowledge-Level (Ontology & Causal Integration)
 
 ## 6. Planning and Search-guided Reasoning
-### 6.1 Action
+### 6.1 Action Planning
 ### 6.2 Search-based Reasoning
 
 ## 7. Program Synthesis
