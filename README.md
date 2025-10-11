@@ -15,7 +15,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 </div>
  
-
+ 
 ## Related Survey
 
 1. 2023_ACL_Survey_Towards Reasoning in Large Language Models: A Survey.
