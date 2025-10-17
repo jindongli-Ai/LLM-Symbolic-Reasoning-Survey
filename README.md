@@ -52,6 +52,9 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 ## 2. Symbolic Formalization
 ### 2.1 Formal Logic Translation and Specification
+#### 2.1.1 Direct
+#### 2.1.2 DSL Design
+
 ### 2.2 Formal Verification and Consistency Checking
 
 ## 3. Logic Programming
@@ -87,9 +90,9 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 ## 8. Tabular
 
-## 9. Benchmark and Environment
-### 9.1 Benchmark
-### 9.2 Environment
+## 9. Dedicated Benchmark and Environment
+### 9.1 Dedicated Benchmark
+### 9.2 Dedicated Environment
 
 
 
