@@ -61,9 +61,9 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ### 3.1 ASP (Answer Set Programming)
 ### 3.2 Prolog
 
-## 4. ATP (Automated Theorem Proving)
+## 4. Theorem Proving (TP)
 ### 4.1 Foundation
-#### 4.1.1 General-Purpose ATP
+#### 4.1.1 General-Purpose TP
 #### 4.1.2 Math Theorem Proving
 ### 4.2 Application
 #### 4.2.1 SMT & Constraint-based Reasoning
