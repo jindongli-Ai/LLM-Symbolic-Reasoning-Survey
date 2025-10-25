@@ -53,46 +53,173 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ## 2. Symbolic Formalization
 ### 2.1 Formal Logic Translation and Specification
 #### 2.1.1 Direct
+
+
+<!-- 下面paper未写进Survey -->
+
+
 #### 2.1.2 DSL Design
+
+
+
+<!-- 下面paper未写进Survey -->
+
+
 
 ### 2.2 Formal Verification and Consistency Checking
 
 ## 3. Logic Programming
 ### 3.1 ASP (Answer Set Programming)
+
+<!-- 下面paper未写进Survey -->
+
+
+
 ### 3.2 Prolog
+
+
+<!-- 下面paper未写进Survey -->
+
+
+
+
 
 ## 4. Theorem Proving
 ### 4.1 Foundation
 #### 4.1.1 General-Purpose Theorem Proving
+
+<!-- 下面paper未写进Survey -->
+
+
+
+
 #### 4.1.2 Math Theorem Proving
+
+
+<!-- 下面paper未写进Survey -->
+
+
+
+
+
+
 ### 4.2 Application
 #### 4.2.1 SMT & Constraint-based Reasoning
+
+<!-- 下面paper未写进Survey -->
+
+
+
+
+
 #### 4.2.2 Verification & Autoformalization
+
+<!-- 下面paper未写进Survey -->
+
+
+
+
 #### 4.2.3 Symbolic CoT & Interfaces
+
+<!-- 下面paper未写进Survey -->
+
+
+
+
 #### 4.2.4 Hybrid Tool-based Reasoning
+
+<!-- 下面paper未写进Survey -->
+
+
+
+
 #### 4.2.5 Uncertainty Reasoning
 
+<!-- 下面paper未写进Survey -->
+
+
+
+
+
 ## 5. Neuro-Symbolic Integration
-### 5.1 Domain-specific Integration
-#### 5.1.1 Medical
-#### 5.1.2 Others
-### 5.2 Representation-Level(Program / Representation Integration)
-### 5.3 Learning-Level (Self-Training / Learning)
-### 5.4 Knowledge-Level (Ontology & Causal Integration)
+
+### 5.1 Representation-Level(Program / Representation Integration)
+
+<!-- 下面paper未写进Survey -->
+
+
+
+### 5.2 Learning-Level (Self-Training / Learning)
+
+<!-- 下面paper未写进Survey -->
+
+
+
+### 5.3 Knowledge-Level (Ontology & Causal Integration)
+
+<!-- 下面paper未写进Survey -->
+
+
+
+### 5.4 Special Domain Integration
+#### 5.4.1 Medical
+
+<!-- 下面paper未写进Survey -->
+
+
+
+#### 5.4.2 Others
+
+
+<!-- 下面paper未写进Survey -->
+
+
+
+
+
 
 ## 6. Planning and Search-guided Reasoning
 ### 6.1 Action Planning
+
+
+<!-- 下面paper未写进Survey -->
+
+
+
 ### 6.2 Search-based Reasoning
+
+
+<!-- 下面paper未写进Survey -->
+
+
+
 
 ## 7. Program Synthesis
 ### 7.1 Math
+
+<!-- 下面paper未写进Survey -->
+
+
+
 ### 7.2 General-Purpose Programming Code
+
+
+<!-- 下面paper未写进Survey -->
+
 
 ## 8. Tabular
 
 ## 9. Dedicated Benchmark and Environment
 ### 9.1 Dedicated Benchmark
+
+
+<!-- 下面paper未写进Survey -->
+
+
 ### 9.2 Dedicated Environment
+
+
+<!-- 下面paper未写进Survey -->
 
 
 
