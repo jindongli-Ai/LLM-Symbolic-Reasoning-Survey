@@ -25,24 +25,24 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 
-3. 2024_arXiv_Survey_Reasoning with Large Language Models: A Survey.
+2. 2024_arXiv_Survey_Reasoning with Large Language Models: A Survey.
 [[arXiv]](https://arxiv.org/abs/2407.11511)
 
 
-4. 2025_arXiv_Survey_Empowering LLMs with Logical Reasoning: A Comprehensive Survey.
+3. 2025_arXiv_Survey_Empowering LLMs with Logical Reasoning: A Comprehensive Survey.
 [[arXiv]](https://arxiv.org/abs/2502.15652)
 
 
-5. 2025_arXiv_Survey_LLM Inference Enhanced by External Knowledge: A Survey.
+4. 2025_arXiv_Survey_LLM Inference Enhanced by External Knowledge: A Survey.
 [[arXiv]](https://arxiv.org/abs/2505.24377)
 [[GitHub]](https://github.com/MiuLab/KG-Survey)
 
 
-6. 2025_OpenReview_Survey_A Survey on Enhancing Large Language Models with Symbolic Reasoning.
+5. 2025_OpenReview_Survey_A Survey on Enhancing Large Language Models with Symbolic Reasoning.
 [[OpenReview]](https://openreview.net/forum?id=exg4ByWdrM)
 
 
-7. 2025_CSUR_Survey_A Survey of Reasoning with Foundation Models.
+6. 2025_CSUR_Survey_A Survey of Reasoning with Foundation Models.
 [[ACM Computing Surveys]](https://dl.acm.org/doi/full/10.1145/3729218)
 [[arXiv]](https://arxiv.org/abs/2312.11562)
 
@@ -95,6 +95,12 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 2. 2024_arXiv_Reliable Reasoning Beyond Natural Language.
    [[arXiv]](https://arxiv.org/abs/2407.11373)
    [[Github]](https://github.com/NasimBorazjani/Reasoning-Beyond-NL)
+
+3. 2025_arXiv_PALM_Generating and Understanding Tests via Path-Aware Symbolic Execution with LLMs.
+   [[arXiv]](https://arxiv.org/abs/2506.19287)
+
+4. 2025_NAACL workshop_Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs.
+   [[NAACL workshop]](https://aclanthology.org/2025.naacl-srw.27/)
    
    
 
