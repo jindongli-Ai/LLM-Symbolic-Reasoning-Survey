@@ -91,6 +91,11 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 1. 2023_IJCNLP-AACL_Faithful CoT_Faithful Chain-of-Thought Reasoning.
    [[IJCNLP-AACL]](https://aclanthology.org/2023.ijcnlp-main.20/)
    [[Github]](https://github.com/veronica320/Faithful-COT)
+
+2. 2024_arXiv_Reliable Reasoning Beyond Natural Language.
+   [[arXiv]](https://arxiv.org/abs/2407.11373)
+   [[Github]](https://github.com/NasimBorazjani/Reasoning-Beyond-NL)
+   
    
 
 
