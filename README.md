@@ -109,6 +109,15 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ## 3. Logic Programming
 ### 3.1 ASP (Answer Set Programming)
 
+1. 2023_ACL_DSR-LM_Improved Logical Reasoning of Language Models via Differentiable Symbolic Programming.
+   [[ACL]](https://aclanthology.org/2023.findings-acl.191/)
+   [[Github]](https://github.com/moqingyan/dsr-lm)
+
+2. 2023_ACL_LLM-ASP_Coupling Large Language Models with Logic Programming for Robust and General Reasoning from Text.
+   [[ACL]](https://aclanthology.org/2023.findings-acl.321/)
+   [[Github]](https://github.com/azreasoners/LLM-ASP)
+
+
 <!-- 下面paper未写进Survey -->
 
 
