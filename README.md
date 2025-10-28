@@ -208,7 +208,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 
-#### 4.2.4 Hybrid Tool-based Reasoning
+#### 4.2.4 Iteration-based Reasoning
 
 <!-- 下面paper未写进Survey -->
 
