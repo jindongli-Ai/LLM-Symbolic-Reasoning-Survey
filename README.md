@@ -188,6 +188,20 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ### 4.2 Application
 #### 4.2.1 SMT & Constraint-based Reasoning
 
+1. 2023_NeurIPS_SATLM_SATLM= Satisfiability-Aided Language Models Using Declarative Prompting.
+   [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e9c7d4a48bdac81a58f983a64aaf42b-Abstract-Conference.html)
+   [[Github]](https://github.com/xiye17/SAT-LM)
+
+
+2. 2025_arXiv_LLM-based Satisfiability Checking of String Requirements by Consistent Data and Chekcer Generation.
+   [[arXiv]](https://arxiv.org/abs/2506.16639)
+
+
+3. 2025_arXiv_WARP_Worst-Case Symbolic Constraints Analysis and Generalisation with Large Language Models.
+   [[arXiv]](https://arxiv.org/abs/2506.08171)
+
+
+
 <!-- 下面paper未写进Survey -->
 
 
