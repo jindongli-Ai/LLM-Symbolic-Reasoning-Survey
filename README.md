@@ -130,6 +130,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 1. 2024_arXiv_Thought-Like-Pro_Thought-Like-Pro: Enhancing Reasoning of Large Language Models through Self-Driven Prolog-based Chain-of-Thought.
    [[arXiv]](https://arxiv.org/abs/2407.14562)
+   
 
 2. 2024_IJCNN_ChatLogic_ChatLogic: Integrating Logic Programming with Large Language Models for Multi-Step Reasoning.
    [[IJCNN]](https://ieeexplore.ieee.org/abstract/document/10650138)
@@ -145,6 +146,24 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ## 4. Theorem Proving
 ### 4.1 Foundation
 #### 4.1.1 General-Purpose Theorem Proving
+
+1. 2025_arXiv_Reinforced Large Language Model is A Formal Theorem Prover.
+   [[arXiv]](https://arxiv.org/abs/2502.08908)
+   [[Github]](https://github.com/zhilingluo/theorem_prover)
+
+
+2. 2025_arXiv_Steering LLMs for Formal Theorem Proving.
+   [[arXiv]](https://arxiv.org/abs/2502.15507)
+
+
+3. 2025_arXiv_HybridProver_HybridProver= Augmenting Theorem Proving with LLM-Driven Proof Synthesis and Refinement.
+   [[arXiv]](https://arxiv.org/abs/2505.15740)
+
+
+4. 2025_ICLR_ProverGen_Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation.
+   [[ICLR]](https://openreview.net/forum?id=C25SgeXWjE)
+   [[Github]](https://github.com/opendatalab/ProverGen)
+
 
 <!-- 下面paper未写进Survey -->
 
