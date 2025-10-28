@@ -55,6 +55,12 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 #### 2.1.1 Direct
 
 
+1. 2023_ICML_FLD_Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic.
+   [[ICML]](https://proceedings.mlr.press/v202/morishita23a.html)
+   [[Github]](https://github.com/hitachi-nlp/FLD)
+
+
+
 <!-- 下面paper未写进Survey -->
 
 
