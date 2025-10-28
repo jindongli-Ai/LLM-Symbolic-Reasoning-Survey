@@ -24,24 +24,25 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 
-2. 2024_arXiv_Survey_Reasoning with Large Language Models: A Survey.
+
+3. 2024_arXiv_Survey_Reasoning with Large Language Models: A Survey.
 [[arXiv]](https://arxiv.org/abs/2407.11511)
 
 
-3. 2025_arXiv_Survey_Empowering LLMs with Logical Reasoning: A Comprehensive Survey.
+4. 2025_arXiv_Survey_Empowering LLMs with Logical Reasoning: A Comprehensive Survey.
 [[arXiv]](https://arxiv.org/abs/2502.15652)
 
 
-4. 2025_arXiv_Survey_LLM Inference Enhanced by External Knowledge: A Survey.
+5. 2025_arXiv_Survey_LLM Inference Enhanced by External Knowledge: A Survey.
 [[arXiv]](https://arxiv.org/abs/2505.24377)
 [[GitHub]](https://github.com/MiuLab/KG-Survey)
 
 
-5. 2025_OpenReview_Survey_A Survey on Enhancing Large Language Models with Symbolic Reasoning.
+6. 2025_OpenReview_Survey_A Survey on Enhancing Large Language Models with Symbolic Reasoning.
 [[OpenReview]](https://openreview.net/forum?id=exg4ByWdrM)
 
 
-6. 2025_CSUR_Survey_A Survey of Reasoning with Foundation Models.
+7. 2025_CSUR_Survey_A Survey of Reasoning with Foundation Models.
 [[ACM Computing Surveys]](https://dl.acm.org/doi/full/10.1145/3729218)
 [[arXiv]](https://arxiv.org/abs/2312.11562)
 
@@ -59,6 +60,17 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
    [[ICML]](https://proceedings.mlr.press/v202/morishita23a.html)
    [[Github]](https://github.com/hitachi-nlp/FLD)
 
+
+2. 2023_NeurIPS_Parsel_Parsel: Algorithmic Reasoning with Language Models by Composing Decompositions.
+   [[NeurlPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6445dd88ebb9a6a3afa0b126ad87fe41-Abstract-Conference.html)
+   [[Github]](https://github.com/ezelikman/parsel)
+   [[Homepage]](http://zelikman.me/parselpaper/)
+
+
+3. 2024_ACL_LogicLLaMA_Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation.
+   [[ACL]](https://aclanthology.org/2024.acl-long.375/)
+   [[Github]](https://github.com/gblackout/LogicLLaMA)
+   
 
 
 <!-- 下面paper未写进Survey -->
