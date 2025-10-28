@@ -117,6 +117,10 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
    [[ACL]](https://aclanthology.org/2023.findings-acl.321/)
    [[Github]](https://github.com/azreasoners/LLM-ASP)
 
+3. 2025_arXiv_Logot_Logic-of-Thought_Logic-of-Thought: Empowering Large Language Models with Logic Programs for Solving Puzzles in Natural Language.
+   [[arXiv]](https://arxiv.org/abs/2505.16114)
+   [[Github]](https://github.com/naiqili/Logic-of-Thought)
+
 
 <!-- 下面paper未写进Survey -->
 
