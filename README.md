@@ -208,7 +208,17 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 
-#### 4.2.2 Verification & Autoformalization
+#### 4.2.2 Autoformalization
+
+1. 2023_EMNLP_Logic-LM_Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning.
+   [[EMNLP]](https://aclanthology.org/2023.findings-emnlp.248/)
+   [[Github]](https://github.com/teacherpeterpan/Logic-LLM)
+
+
+2. 2024_ICLR_DTV_Don't Trust: Verify-Grounding LLM Quantitative Reasoning with Autoformalization.
+   [[ICLR]](https://openreview.net/forum?id=V5tdi14ple)
+   [[Github]](https://github.com/jinpz/dtv)
+
 
 <!-- 下面paper未写进Survey -->
 
