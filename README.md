@@ -78,6 +78,8 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 #### 2.1.2 DSL Design
 
+1. 2024_ACL_AutoDSL_AutoDSL: Automated Domain-Specific Language Design for Structural Representation of Procedures with Constraints.
+   [[ACL]](https://aclanthology.org/2024.acl-long.659/)
 
 
 <!-- 下面paper未写进Survey -->
@@ -85,6 +87,13 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 ### 2.2 Formal Verification and Consistency Checking
+
+1. 2023_IJCNLP-AACL_Faithful CoT_Faithful Chain-of-Thought Reasoning.
+   [[IJCNLP-AACL]](https://aclanthology.org/2023.ijcnlp-main.20/)
+   [[Github]](https://github.com/veronica320/Faithful-COT)
+   
+
+
 
 ## 3. Logic Programming
 ### 3.1 ASP (Answer Set Programming)
