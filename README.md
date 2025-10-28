@@ -172,6 +172,11 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 #### 4.1.2 Math Theorem Proving
 
+1. 2025_ICLR_LIPS_Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning.
+   [[ICLR]](https://openreview.net/forum?id=FiyS0ecSm0)
+   [[Github]](https://github.com/Lizn-zn/NeqLIPS)
+
+
 
 <!-- 下面paper未写进Survey -->
 
