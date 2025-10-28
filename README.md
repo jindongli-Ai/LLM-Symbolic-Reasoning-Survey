@@ -128,6 +128,13 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 ### 3.2 Prolog
 
+1. 2024_arXiv_Thought-Like-Pro_Thought-Like-Pro: Enhancing Reasoning of Large Language Models through Self-Driven Prolog-based Chain-of-Thought.
+   [[arXiv]](https://arxiv.org/abs/2407.14562)
+
+2. 2024_IJCNN_ChatLogic_ChatLogic: Integrating Logic Programming with Large Language Models for Multi-Step Reasoning.
+   [[IJCNN]](https://ieeexplore.ieee.org/abstract/document/10650138)
+   [[Github]](https://github.com/Strong-AI-Lab/ChatLogic)
+
 
 <!-- 下面paper未写进Survey -->
 
