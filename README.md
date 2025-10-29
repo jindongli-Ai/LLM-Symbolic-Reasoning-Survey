@@ -400,7 +400,37 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ## 6. Planning and Search-guided Reasoning
 ### 6.1 Action Planning
 
+1. 2023_arXiv_LLM+P_LLM+P: Empowering Large Language Models with Optimal Planning Proficiency. 
+   [[arXiv]](https://arxiv.org/abs/2304.11477)
+   [[Github]](https://github.com/Cranial-XIX/llm-pddl)
 
+
+2. 2023_EMNLP_SPC_Symbolic Planning and Code Generation for Grounded Dialogue.
+   [[EMNLP]](https://aclanthology.org/2023.emnlp-main.460/)
+
+
+3. 2023_NeurIPS_LLM-DM_Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning.
+   [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f9f54762cbb4fe4dbffdd4f792c31221-Abstract-Conference.html)
+   [[Github]](https://guansuns.github.io/pages/llm-dm/)
+
+
+4. 2025_AAAI_Planning in the Dark: LLM-Symbolic Planning Pipeline Without Experts.
+   [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/34855)
+   [[Github]](https://github.com/Sino-Huang/Official-LLM-Symbolic-Planning-without-Experts)
+
+
+5. 2025_ICML workshop_SPG_Sketch-Plan-Generalize: Learning and Planning with Neuro-Symbolic Programmatic Representations for Inductive Spatial Concepts.
+   [[ICML workshop]](https://openreview.net/forum?id=pTOQwAQ14h)
+   [[arXiv]](https://arxiv.org/abs/2404.07774)
+
+
+6. 2025_NAACL_PSALM_Language Models Can Infer Action Semantics for Symbolic Planners from Environment Feedback.
+   [[NAACL]](https://aclanthology.org/2025.naacl-long.440/)
+   
+
+7. 2025_NeurIPS_InstructFlow_InstructFlow: Adaptive Symbolic Constraint-Guided Code Generation for Long-Horizon Planning.
+   [[ICML wrkshop]](https://openreview.net/forum?id=wr47LsSUjH&noteId=wr47LsSUjH)
+   [[NeurlPS]](https://openreview.net/forum?id=nzwjvpCO4F)
 
 
 
@@ -409,6 +439,16 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 ### 6.2 Search-based Reasoning
+
+1. 2024_arXiv_HiAR-ICL_Beyond Examples: High-level Automated Reasoning Paradigm in In-Context Learning via MCTS.
+   [[arXiv]](https://arxiv.org/abs/2411.18478)
+   [[Homepage]](https://jinyangwu.github.io/hiar-icl/)
+   [[Github]](https://github.com/jinyangwu/HiARICL)
+
+
+2. 2025_arXiv_Symbolic ReAct_Enhancing Logical Reasoning in Language Models via Symbolically-Guided Monte Carlo Process Supervision.
+   [[arXiv]](https://arxiv.org/abs/2505.20415)
+
 
 
 <!-- 下面paper未写进Survey -->
@@ -419,17 +459,66 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ## 7. Program Synthesis
 ### 7.1 Math
 
+1. 2023_ACL_Reasoning in Large Language Models Through Symbolic Math Word Problems.
+   [[ACL]](https://aclanthology.org/2023.findings-acl.364/)
+   [[Github]](https://github.com/vedantgaur/Symbolic-MWP-Reasoning)
+
+
+2. 2023_NeurIPS workshop_Solving Math Word Problems by Combining Language Models With Symbolic Solvers.
+   [[NeurIPS workshop]](https://openreview.net/forum?id=m7m14acWQi)
+   [[arXiv]](https://arxiv.org/abs/2304.09102)
+   [[Github]](https://github.com/joyheyueya/declarative-math-word-problem)
+
+
+3. 2023_TMLR_PoT_Program of Thougths Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.
+   [[TMLR]](https://openreview.net/forum?id=YfZ4ZPt8zd)
+   [[Github]](https://github.com/TIGER-AI-Lab/Program-of-Thoughts)
+
+
+4. 2024_AAAI_SYRELM_Frugal LMs Trained to Invoke Symbolic Solvers Achieve Parameter-Efficient Arithmetic Reasoning.
+   [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/29750)
+   [[Github]](https://github.com/joykirat18/SYRELM)
+
+
+5. 2024_NeurIPS Workshop_Math2Sym_Math2Sym: A System for Solving Elementary Problems via Large Language Mdoels and Symbolic Solvers.
+   [[NeurIPS Workshop]](https://openreview.net/forum?id=eQrkAPcGRF&noteId=eQrkAPcGRF)
+   [[Github]](https://github.com/pepoo20/Math2Sym)
+   
+   
+
+
+
 <!-- 下面paper未写进Survey -->
 
 
 
 ### 7.2 General-Purpose Programming Code
 
+1. 2023_ICML_PAL_PAL: Program-aided Language Models.
+   [[ICML]](https://proceedings.mlr.press/v202/gao23f)
+   [[Homepage]](https://reasonwithpal.com/)
+   [[https://github.com/reasoning-machines/pal]]
+   
+
+
+
 
 <!-- 下面paper未写进Survey -->
 
 
 ## 8. Tabular
+
+1. 2024_EMNLP_NormTab_NormTab: Improving Symbolic Reasoning in LLMs Through Tabular Data Normalization.
+   [[EMNLP]](https://aclanthology.org/2024.findings-emnlp.203/)
+   [[Github]](https://github.com/mahadi-nahid/NormTab)
+
+
+2. 2024_NAACL_TabSQLify_TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition.
+   [[NAACL]](https://aclanthology.org/2024.naacl-long.320/)
+   [[Github]](https://github.com/mahadi-nahid/TabSQLify)
+   
+
+
 
 ## 9. Dedicated Benchmark and Environment
 ### 9.1 Dedicated Benchmark
