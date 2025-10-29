@@ -516,6 +516,17 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 2. 2024_NAACL_TabSQLify_TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition.
    [[NAACL]](https://aclanthology.org/2024.naacl-long.320/)
    [[Github]](https://github.com/mahadi-nahid/TabSQLify)
+
+
+3. 2025_ACL_RelationalCoder_RelationalCoder: Rethinking Complex Tables via Programmatic Relational Transformation.
+   [[ACL]](https://aclanthology.org/2025.acl-long.89/)
+   [[Github]](https://github.com/haoyudong/RelationalCoder)
+
+
+4. 2025_SIGIR_TabFormer_Reasoning and Retrieval for Complex Semi-structured Tables via Reinforced Relational Data Transformation.
+   [[SIGIR]](https://dl.acm.org/doi/abs/10.1145/3726302.3730071)
+   
+   
    
 
 
@@ -523,11 +534,32 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ## 9. Dedicated Benchmark and Environment
 ### 9.1 Dedicated Benchmark
 
+1. 2022_arXiv_FOLIO-dataset_FOLIO: Natural Language Reasoning with First-Order Logic.
+   [[EMNLP]](https://aclanthology.org/2024.emnlp-main.1229/)
+   [[Github]](https://github.com/Yale-LILY/FOLIO)
+
+
+2. 2025_ICLR_LFC-dataset_Logical Consistencyh of Large Language Models in Fact-Checking.
+   [[ICLR]](https://openreview.net/forum?id=SimlDuN0YT)
+
+
 
 <!-- 下面paper未写进Survey -->
 
 
 ### 9.2 Dedicated Environment
+
+1. 2023_NeurIPS_LeanDojo_LeanDojo: Theorem Proving with Retrieval-Augmented Language Models.
+   [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html)
+   [[Github]](https://github.com/lean-dojo/LeanDojo)
+
+
+
+3. 2025_arXiv_Reasoning Core_Reasoning Core: A Scalable RL Environment for LLM Symbolic Reasoning.
+   [[arXiv]](https://arxiv.org/abs/2509.18083)
+   [[Github]](https://github.com/sileod/reasoning_core)
+   
+
 
 
 <!-- 下面paper未写进Survey -->
