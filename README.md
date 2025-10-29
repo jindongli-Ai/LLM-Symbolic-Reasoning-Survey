@@ -264,12 +264,28 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 #### 4.2.4 Iteration-based Reasoning
 
+1. 2024_ICLR_ToRA_ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving.
+   [[ICLR]](https://openreview.net/forum?id=Ep0TtjVoap)
+   [[Github]](https://github.com/microsoft/ToRA)
+
+
+2. 2025_arXiv_APOLLO_APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning.
+   [[arXiv]](https://arxiv.org/abs/2505.05758)
+   [[Github]](https://github.com/aziksh-ospanov/APOLLO)
+
+
+
 <!-- 下面paper未写进Survey -->
 
 
 
 
 #### 4.2.5 Uncertainty Reasoning
+
+1. 2025_AAAI_BLInD_Reasoning over Uncertain Text by Generative Large Language Models.
+   [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/34674)
+   [[Github]](https://github.com/HLR/BLInD)
+   
 
 <!-- 下面paper未写进Survey -->
 
@@ -279,7 +295,23 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 ## 5. Neuro-Symbolic Integration
 
-### 5.1 Representation-Level(Program / Representation Integration)
+### 5.1 Representation-Level
+
+1. 2024_NAACL_NLEP_Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning.
+   [[NAACL]](https://aclanthology.org/2024.findings-naacl.259/)
+   [[Github]](https://github.com/luohongyin/LangCode)
+
+   
+2. 2025_arXiv_VERUS-LM_VERUS-LM: a Versatile Framework for Combining LLMs with Symbolic Reasoning.
+   [[arXiv]](https://arxiv.org/abs/2501.14540)
+   [[Github]](https://gitlab.com/EAVISE/bca/verus-lm)
+
+
+3. 2025_ICLR_LoCo_Logically Consistent Language Models via Neuro-Symbolic Integration.
+   [[ICLR]](https://openreview.net/forum?id=7PGluppo4k)
+   [[Github]](https://github.com/ddidacus/loco-llm)
+
+
 
 <!-- 下面paper未写进Survey -->
 
