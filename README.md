@@ -317,13 +317,47 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 
-### 5.2 Learning-Level (Self-Training / Learning)
+### 5.2 Learning-Level
+
+1. 2024_arXiv_ENVISIONS_Interactive Evolution: A Neural-Symbolic Self-Training Framework For Large Language Models.
+   [[arXiv]](https://arxiv.org/abs/2406.11736)
+   [[Github]](https://github.com/xufangzhi/ENVISIONS)
+
+
+2. 2024_AAAI_LLMSymbolic_Large language models are neurosymbolic reasoners.
+   [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/29754)
+   [[Github]](https://github.com/hyintell/LLMSymbolic)
+
+
+
+
 
 <!-- 下面paper未写进Survey -->
 
 
 
-### 5.3 Knowledge-Level (Ontology & Causal Integration)
+### 5.3 Knowledge-Level
+
+1. 2025_arXiv_LeSR_Large Language Model-Enhanced Symbolic Reasoning for Knowledge Base Completion.
+   [[arXiv]](https://arxiv.org/abs/2501.01246)
+
+
+2. 2025_NAACL_CaRing_Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs.
+   [[NAACL]](https://aclanthology.org/2025.findings-naacl.317/)
+   [[NAACL]](https://github.com/DAMO-NLP-SG/CaRing)
+
+
+3. 2025_NAACL_SymBa_SymBa: Symbolic Backward Chaining for Structured Natural Language Reasoning.
+   [[NAACL]](https://aclanthology.org/2025.naacl-long.124/)
+   [[Github]](https://github.com/lbox-kr/symba)
+
+
+4. 2025_WWW_SymAgent_SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs.
+   [[WWW]](https://dl.acm.org/doi/abs/10.1145/3696410.3714768)
+
+
+
+
 
 <!-- 下面paper未写进Survey -->
 
@@ -332,11 +366,28 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 ### 5.4 Special Domain Integration
 #### 5.4.1 Medical
 
+1. 2023_arXiv_Coupling Symbolic Reasoning with Language Modeling for Efficient Longitudinal Understanding of Unstructured Electronic Medical Records.
+   [[arXiv]](https://arxiv.org/abs/2308.03360)
+
+
+2. 2023_BIBM_Integrating Automated Knowledge Extraction with Large Language Models for Explainable Medical Decision-Making.
+   [[BIBM]](https://ieeexplore.ieee.org/abstract/document/10385557/)
+
+
+
+
 <!-- 下面paper未写进Survey -->
 
 
 
 #### 5.4.2 Others
+
+1. 2025_arXiv_Towards Robust Legal Reasoning: Harnessing Logical LLMs in Law.
+   [[arXiv]](https://arxiv.org/abs/2502.17638)
+   
+
+2. 2025_NeurIPS_SymRTLO_SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning.
+   [[arXiv]](https://arxiv.org/abs/2504.10369)
 
 
 <!-- 下面paper未写进Survey -->
@@ -348,6 +399,9 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 ## 6. Planning and Search-guided Reasoning
 ### 6.1 Action Planning
+
+
+
 
 
 <!-- 下面paper未写进Survey -->
