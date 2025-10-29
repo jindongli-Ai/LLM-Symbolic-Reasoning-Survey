@@ -227,6 +227,36 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 #### 4.2.3 Symbolic CoT & Interfaces
 
+
+1. 2023_ICLR_BINDER_Binding Language Models in Symbolic Languages.
+   [[ICLR]](https://openreview.net/forum?id=lH1PV42cbF)
+   [[Homepage]](https://lm-code-binder.github.io/)
+   [[Github]](https://github.com/xlang-ai/Binder)
+
+
+2. 2024_ACL_Graph-CoT_Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs.
+   [[ACL]](https://aclanthology.org/2024.findings-acl.11/)
+   [[Github]](https://github.com/PeterGriffinJin/Graph-CoT)
+
+
+3. 2024_ACL_SymbCoT_Faithful Logical Reasoning via Symbolic Chain-of-Thought.
+   [[ACL]](https://aclanthology.org/2024.acl-long.720/)
+   [[Github]](https://github.com/Aiden0526/SymbCoT)
+
+
+4. 2024_ACL_Symbol-LLM_Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.
+   [[ACL]](https://aclanthology.org/2024.acl-long.707/)
+   [[Homepage]](https://xufangzhi.github.io/symbol-llm-page/)
+   [[Github]](https://github.com/xufangzhi/Symbol-LLM)
+
+   
+5. 2024_COLM_CoS_Chain-of-Symbol Prompting for Spatial Reasoning in Large Language Models.
+   [[COLM]](https://openreview.net/forum?id=Hvq9RtSoHG)
+   [[Github]](https://github.com/hanxuhu/chain-of-symbol-planning)
+
+   
+
+
 <!-- 下面paper未写进Survey -->
 
 
