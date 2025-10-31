@@ -603,7 +603,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 [[arXiv]](https://arxiv.org/abs/2407.11511)
 
 
-3. 2025_IJCAI_Survey_Empowering LLMs with Logical Reasoning: A Comprehensive Survey.
+3. 2025_arXiv_Survey_Empowering LLMs with Logical Reasoning: A Comprehensive Survey.
 [[arXiv]](https://arxiv.org/abs/2502.15652)
 
 
