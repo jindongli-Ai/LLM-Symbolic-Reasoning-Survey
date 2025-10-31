@@ -605,18 +605,19 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 3. 2025_IJCAI_Survey_Empowering LLMs with Logical Reasoning: A Comprehensive Survey.
 [[arXiv]](https://arxiv.org/abs/2502.15652)
+[[IJCAI]](https://www.ijcai.org/proceedings/2025/1155)
 
 
-4. 2025_arXiv_Survey_LLM Inference Enhanced by External Knowledge: A Survey.
+5. 2025_arXiv_Survey_LLM Inference Enhanced by External Knowledge: A Survey.
 [[arXiv]](https://arxiv.org/abs/2505.24377)
 [[GitHub]](https://github.com/MiuLab/KG-Survey)
 
 
-5. 2025_OpenReview_Survey_A Survey on Enhancing Large Language Models with Symbolic Reasoning.
+6. 2025_OpenReview_Survey_A Survey on Enhancing Large Language Models with Symbolic Reasoning.
 [[OpenReview]](https://openreview.net/forum?id=exg4ByWdrM)
 
 
-6. 2025_CSUR_Survey_A Survey of Reasoning with Foundation Models.
+7. 2025_CSUR_Survey_A Survey of Reasoning with Foundation Models.
 [[ACM Computing Surveys]](https://dl.acm.org/doi/full/10.1145/3729218)
 [[arXiv]](https://arxiv.org/abs/2312.11562)
 
