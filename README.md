@@ -51,7 +51,6 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
     <img src="./figs/fig_3.png" alt="fig_3" width="500" />
 </p>
 <br>
-<br>
 
 
 ### 2.1 Formal Logic Translation and Specification
@@ -113,7 +112,6 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 <p align="center">
     <img src="./figs/fig_4.png" alt="fig_4" width="500" />
 </p>
-<br>
 <br>
 
 
