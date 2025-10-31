@@ -604,8 +604,9 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 3. 2025_IJCAI_Survey_Empowering LLMs with Logical Reasoning: A Comprehensive Survey.
-[[arXiv]](https://arxiv.org/abs/2502.15652)
 [[IJCAI]](https://www.ijcai.org/proceedings/2025/1155)
+[[arXiv]](https://arxiv.org/abs/2502.15652)
+
 
 
 5. 2025_arXiv_Survey_LLM Inference Enhanced by External Knowledge: A Survey.
