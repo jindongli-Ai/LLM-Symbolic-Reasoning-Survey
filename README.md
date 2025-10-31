@@ -31,14 +31,12 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
     <img src="./figs/fig_1.png" alt="fig_1" width="500" />
 </p>
 <br>
-<br>
 
 
 
 <p align="center">
     <img src="./figs/fig_2.png" alt="fig_2" width="1000" />
 </p>
-<br>
 <br>
 
 
@@ -152,6 +150,12 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 ## 4. Theorem Proving
+
+<p align="center">
+    <img src="./figs/fig_5.png" alt="fig_5" width="500" />
+</p>
+<br>
+
 ### 4.1 Foundation
 #### 4.1.1 General-Purpose Theorem Proving
 
@@ -303,6 +307,11 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 ## 5. Neuro-Symbolic Integration
 
+<p align="center">
+    <img src="./figs/fig_6.png" alt="fig_6" width="500" />
+</p>
+<br>
+
 ### 5.1 Representation-Level
 
 1. 2024_NAACL_NLEP_Natural Language Embedded Programs for Hybrid Language Symbolic Reasoning.
@@ -406,6 +415,12 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 ## 6. Planning and Search-guided Reasoning
+
+<p align="center">
+    <img src="./figs/fig_7.png" alt="fig_7" width="500" />
+</p>
+<br>
+
 ### 6.1 Action Planning
 
 1. 2023_arXiv_LLM+P_LLM+P: Empowering Large Language Models with Optimal Planning Proficiency. 
@@ -515,6 +530,11 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 ## 8. Tabular
+
+<p align="center">
+    <img src="./figs/fig_8.png" alt="fig_8" width="500" />
+</p>
+<br>
 
 1. 2024_EMNLP_NormTab_NormTab: Improving Symbolic Reasoning in LLMs Through Tabular Data Normalization.
    [[EMNLP]](https://aclanthology.org/2024.findings-emnlp.203/)
