@@ -48,7 +48,6 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 <p align="center">
     <img src="./figs/fig_3.png" alt="fig_3" width="500" />
 </p>
-<br>
 
 
 ### 2.1 Formal Logic Translation and Specification
@@ -110,7 +109,6 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 <p align="center">
     <img src="./figs/fig_4.png" alt="fig_4" width="500" />
 </p>
-<br>
 
 
 ### 3.1 ASP (Answer Set Programming)
@@ -154,7 +152,6 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 <p align="center">
     <img src="./figs/fig_5.png" alt="fig_5" width="500" />
 </p>
-<br>
 
 ### 4.1 Foundation
 #### 4.1.1 General-Purpose Theorem Proving
@@ -310,7 +307,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 <p align="center">
     <img src="./figs/fig_6.png" alt="fig_6" width="500" />
 </p>
-<br>
+
 
 ### 5.1 Representation-Level
 
@@ -419,7 +416,6 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 <p align="center">
     <img src="./figs/fig_7.png" alt="fig_7" width="500" />
 </p>
-<br>
 
 ### 6.1 Action Planning
 
@@ -534,7 +530,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 <p align="center">
     <img src="./figs/fig_8.png" alt="fig_8" width="500" />
 </p>
-<br>
+
 
 1. 2024_EMNLP_NormTab_NormTab: Improving Symbolic Reasoning in LLMs Through Tabular Data Normalization.
    [[EMNLP]](https://aclanthology.org/2024.findings-emnlp.203/)
