@@ -36,7 +36,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 <p align="center">
-    <img src="./figs/fig_2.png" alt="fig_2" width="500" />
+    <img src="./figs/fig_2.png" alt="fig_2" width="1000" />
 </p>
 <br>
 <br>
