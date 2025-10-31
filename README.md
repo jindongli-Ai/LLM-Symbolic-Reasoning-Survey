@@ -35,7 +35,25 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 
+<p align="center">
+    <img src="./figs/fig_2.png" alt="fig_2" width="500" />
+</p>
+<br>
+<br>
+
+
+
+
 ## 2. Symbolic Formalization
+
+
+<p align="center">
+    <img src="./figs/fig_3.png" alt="fig_3" width="500" />
+</p>
+<br>
+<br>
+
+
 ### 2.1 Formal Logic Translation and Specification
 #### 2.1.1 Direct
 
@@ -91,6 +109,14 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 ## 3. Logic Programming
+
+<p align="center">
+    <img src="./figs/fig_4.png" alt="fig_4" width="500" />
+</p>
+<br>
+<br>
+
+
 ### 3.1 ASP (Answer Set Programming)
 
 1. 2023_ACL_DSR-LM_Improved Logical Reasoning of Language Models via Differentiable Symbolic Programming.
