@@ -111,7 +111,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 </p>
 
 
-### 3.1 ASP (Answer Set Programming)
+### 3.1 Answer Set Programming (ASP)
 
 1. 2023_ACL_DSR-LM_Improved Logical Reasoning of Language Models via Differentiable Symbolic Programming.
    [[ACL]](https://aclanthology.org/2023.findings-acl.191/)
@@ -130,7 +130,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 
 
-### 3.2 Prolog
+### 3.2 Programming in Logic (Prolog)
 
 1. 2024_arXiv_Thought-Like-Pro_Thought-Like-Pro: Enhancing Reasoning of Large Language Models through Self-Driven Prolog-based Chain-of-Thought.
    [[arXiv]](https://arxiv.org/abs/2407.14562)
