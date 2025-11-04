@@ -183,7 +183,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 1. 2024_Nature_AlphaGeometry_Solving Olympiad Geometry without Human Demonstrations.
    [[Nature]](https://www.nature.com/articles/s41586-023-06747-5)
-   [[Github]](https://github.com/google-deepmind/alphageometry)
+   [[GitHub]](https://github.com/google-deepmind/alphageometry)
 
 
 3. 2025_ICLR_LIPS_Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning.
@@ -232,6 +232,11 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 2. 2024_ICLR_DTV_Don't Trust: Verify-Grounding LLM Quantitative Reasoning with Autoformalization.
    [[ICLR]](https://openreview.net/forum?id=V5tdi14ple)
    [[GitHub]](https://github.com/jinpz/dtv)
+
+
+3. 2025_NeurlPS_HAR&CoPA_Bootstrapping Hierarchical Autoregressive Formal Reasoner with Chain-of-Proxy-Autoformalization.
+   [[NeurlPS]](https://openreview.net/forum?id=2Xn8h68mP3)
+   [[GitHub]](https://github.com/Purewhite2019/har_copa_main)
 
 
 <!-- 下面paper未写进Survey -->
