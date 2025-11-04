@@ -181,7 +181,12 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 #### 4.1.2 Math Theorem Proving
 
-1. 2025_ICLR_LIPS_Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning.
+1. 2024_Nature_AlphaGeometry_Solving Olympiad Geometry without Human Demonstrations.
+   [[Nature]](https://www.nature.com/articles/s41586-023-06747-5)
+   [[Github]](https://github.com/google-deepmind/alphageometry)
+
+
+3. 2025_ICLR_LIPS_Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning.
    [[ICLR]](https://openreview.net/forum?id=FiyS0ecSm0)
    [[GitHub]](https://github.com/Lizn-zn/NeqLIPS)
 
