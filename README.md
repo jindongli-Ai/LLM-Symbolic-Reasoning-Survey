@@ -368,7 +368,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 2. 2025_NAACL_CaRing_Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs.
    [[NAACL]](https://aclanthology.org/2025.findings-naacl.317/)
-   [[NAACL]](https://github.com/DAMO-NLP-SG/CaRing)
+   [[GitHub]](https://github.com/DAMO-NLP-SG/CaRing)
 
 
 3. 2025_NAACL_SymBa_SymBa: Symbolic Backward Chaining for Structured Natural Language Reasoning.
