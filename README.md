@@ -2,8 +2,7 @@
     <h1><b>A Survey on LLM Symbolic Reasoning</b></h1>
 </div>
 
-The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasoning".
-
+The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasoning". And this survey has been accepted by AAAI 2026 Bridge--Logical and Symbolic Reasoning in Language Models.
 
 <div align="center">
 
