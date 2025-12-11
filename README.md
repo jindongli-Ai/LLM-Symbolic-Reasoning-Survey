@@ -13,7 +13,14 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 <a href="https://arxiv.org/" target="_blank"><img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-009688.svg" alt="arXiv"></a>
 
 </div>
+
  
+
+<div align="center">
+[TechRXiv][https://www.techrxiv.org/users/1002499/articles/1367055-a-survey-on-llm-symbolic-reasoning]
+</div>
+
+<br>
 
  
 
