@@ -646,8 +646,17 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 ## 📖 Citation
 
+If you compare with, build on, or use aspects of this work, please cite the following:
 
-
+```
+@article{li2025survey,
+  title={A Survey on LLM Symbolic Reasoning},
+  author={Li, Jindong and Fu, Yali and Yang, Yang and Liu, Jiahong and Zhang, Hongce and Li, Haoxuan and Yue, Yutao and Yang, Menglin},
+  journal={Authorea Preprints},
+  year={2025},
+  publisher={Authorea}
+}
+```
 
 
 
