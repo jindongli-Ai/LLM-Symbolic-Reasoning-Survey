@@ -440,6 +440,7 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
    [[GitHub]](https://github.com/Cranial-XIX/llm-pddl)
 
 
+<!------ 2023_EMNLP_SPC 未写进 Survey----!>
 2. 2023_EMNLP_SPC_Symbolic Planning and Code Generation for Grounded Dialogue.
    [[EMNLP]](https://aclanthology.org/2023.emnlp-main.460/)
 
