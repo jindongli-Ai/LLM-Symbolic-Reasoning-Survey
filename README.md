@@ -16,9 +16,9 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
  
 
-<div align="center">
-[TechRxiv][https://www.techrxiv.org/users/1002499/articles/1367055-a-survey-on-llm-symbolic-reasoning]
-</div>
+
+History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/1367055-a-survey-on-llm-symbolic-reasoning)
+
 
 <br>
 
