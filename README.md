@@ -613,54 +613,54 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 1. 2023_ACL_Survey_Towards Reasoning in Large Language Models: A Survey.
 
-[[ACL]](https://aclanthology.org/2023.findings-acl.67/)
-[[GitHub]](https://github.com/jeffhj/LM-reasoning)
+    [[ACL]](https://aclanthology.org/2023.findings-acl.67/)
+    [[GitHub]](https://github.com/jeffhj/LM-reasoning)
 
 
 2. 2024_COLM_Survey_A Survey on Deep Learning for Theorem Proving
 
-[OpenReview](https://openreview.net/forum?id=zlw6AHwukB)
-[[arXiv]](https://arxiv.org/abs/2404.09939)
+    [[OpenReview]](https://openreview.net/forum?id=zlw6AHwukB)
+    [[arXiv]](https://arxiv.org/abs/2404.09939)
 
 
 3. 2024_arXiv_Survey_Reasoning with Large Language Models: A Survey.
 
-[[arXiv]](https://arxiv.org/abs/2407.11511)
+    [[arXiv]](https://arxiv.org/abs/2407.11511)
 
 
 4. 2025_IJCAI_Survey_Empowering LLMs with Logical Reasoning: A Comprehensive Survey.
 
-[[IJCAI]](https://www.ijcai.org/proceedings/2025/1155)
-[[arXiv]](https://arxiv.org/abs/2502.15652)
+    [[IJCAI]](https://www.ijcai.org/proceedings/2025/1155)
+    [[arXiv]](https://arxiv.org/abs/2502.15652)
 
 
 5. 2025_IJCAI_Survey_Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning Abilities of Large Language Models.
 
-[[IJCAI]](https://www.ijcai.org/proceedings/2025/1195)
-[[arXiv]](https://arxiv.org/abs/2508.13678)
-[[GitHub]](https://github.com/LAMDASZ-ML/Awesome-LLM-Reasoning-with-NeSy)
+    [[IJCAI]](https://www.ijcai.org/proceedings/2025/1195)
+    [[arXiv]](https://arxiv.org/abs/2508.13678)
+    [[GitHub]](https://github.com/LAMDASZ-ML/Awesome-LLM-Reasoning-with-NeSy)
 
 
 6. 2025_arXiv_Survey_Logical Reasoning in Large Language Models= A Survey
 
-[[arXiv]](https://arxiv.org/abs/2502.09100)
+    [[arXiv]](https://arxiv.org/abs/2502.09100)
 
 
 7. 2025_arXiv_Survey_LLM Inference Enhanced by External Knowledge: A Survey.
 
-[[arXiv]](https://arxiv.org/abs/2505.24377)
-[[GitHub]](https://github.com/MiuLab/KG-Survey)
+    [[arXiv]](https://arxiv.org/abs/2505.24377)
+    [[GitHub]](https://github.com/MiuLab/KG-Survey)
 
 
 8. 2025_OpenReview_Survey_A Survey on Enhancing Large Language Models with Symbolic Reasoning.
 
-[[OpenReview]](https://openreview.net/forum?id=exg4ByWdrM)
+    [[OpenReview]](https://openreview.net/forum?id=exg4ByWdrM)
 
 
 9. 2025_CSUR_Survey_A Survey of Reasoning with Foundation Models.
 
-[[ACM Computing Surveys]](https://dl.acm.org/doi/full/10.1145/3729218)
-[[arXiv]](https://arxiv.org/abs/2312.11562)
+    [[ACM Computing Surveys]](https://dl.acm.org/doi/full/10.1145/3729218)
+    [[arXiv]](https://arxiv.org/abs/2312.11562)
 
 
 
