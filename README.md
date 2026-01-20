@@ -48,6 +48,82 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 
 
+## 2. Theorem Proving (TP)
+
+### 2.1 ATP
+
+#### 2.1.1 Direct
+
+1. 2025_arXiv_Reinforced Large Language Model is A Formal Theorem Prover.
+   
+   [[arXiv]](https://arxiv.org/abs/2502.08908)
+   [[GitHub]](https://github.com/zhilingluo/theorem_prover)
+
+
+2. 2025_arXiv_Steering LLMs for Formal Theorem Proving.
+
+   [[arXiv]](https://arxiv.org/abs/2502.15507)
+
+
+3. 2024_Nature_AlphaGeometry_Solving Olympiad Geometry without Human Demonstrations.
+
+   [[Nature]](https://www.nature.com/articles/s41586-023-06747-5)
+   [[GitHub]](https://github.com/google-deepmind/alphageometry)
+
+
+4. 2025_ICLR_LIPS_Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning.
+
+   [[ICLR]](https://openreview.net/forum?id=FiyS0ecSm0)
+   [[GitHub]](https://github.com/Lizn-zn/NeqLIPS)
+
+
+5. 2025_arXiv_HybridProver_HybridProver= Augmenting Theorem Proving with LLM-Driven Proof Synthesis and Refinement.
+
+   [[arXiv]](https://arxiv.org/abs/2505.15740)
+
+
+
+
+
+#### 2.1.2 Decomposed
+
+1. 2025_Nature_AlphaProof_Olympial-Level Formal Mathematical Reasoning with Reinforcement Learning.
+
+   [[Nature]](https://www.nature.com/articles/s41586-025-09833-y)
+
+
+2. 2025_arXiv_APOLLO_APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning.
+
+   [[arXiv]](https://arxiv.org/abs/2505.05758)
+   [[GitHub]](https://github.com/aziksh-ospanov/APOLLO)
+
+
+3. 2025_EMNLP_DREAM_Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving.
+
+   [[EMNLP]](https://aclanthology.org/2025.emnlp-main.628/)
+
+
+
+4. 2025_arXiv_DeepSeek-Porver-V2_DeepSeek-Porver-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition.
+
+   [[arXiv]](https://arxiv.org/abs/2504.21801)
+
+
+
+
+
+### 2.2 ITP
+
+
+
+
+
+
+
+
+
+
+
 ## 2. Symbolic Formalization
 
 
