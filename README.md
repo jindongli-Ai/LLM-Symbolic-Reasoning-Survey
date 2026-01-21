@@ -319,28 +319,86 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[IEEE]](https://ieeexplore.ieee.org/document/10385557)
 
-3. 
+3. 2024_BIBM_ArgMed-Agents_ArgMed-Agents= Explainable Clinical Decision Reasoning with LLM Discussion via Argumentation Schemes.
 
+    [[IEEE]](https://ieeexplore.ieee.org/document/10822109?denied=)
+    [[arXiv]](https://arxiv.org/abs/2403.06294)
 
+4. 2025_arXiv_Perceptual-CoT_From Metaphor to Mechanism= How LLMs Decode Traditional Chinese Medicine Symbolic Language for Modern Clinical Relevance.
+
+    [[arXiv]](https://arxiv.org/abs/2503.02760?)
+
+5. 2026_AAAI_Concept-RuleNet_Concept-RuleNet= Grounded Multi-Agent Neurosymbolic Reasoning in Visioni Language Models.
+
+    [[arXiv]](https://arxiv.org/abs/2511.11751)
 
 
 ### 7.2 Law (Legal Reasoning)
 
+1. 2025_AI and Law_An LLMs-based Neuro-Symbolic Legal Judgement Prediction Framework for Civil Cases.
+
+    [[Spring]](https://link.springer.com/article/10.1007/s10506-025-09433-1)
+
+2. 2025_arXiv_Towards Robust Legal Reasoning: Harnessing Logical LLMs in Law.
+
+    [[arXiv]](https://arxiv.org/abs/2502.17638)
+
+3. 2025_CIKM_SOLAR_On Verifiable Legal Reasoning_On Verifiable Legal Reasoning= A Multi-Agent Framework with Formalized Knowledge Representations.
+
+    [[ACM CIKM]](https://dl.acm.org/doi/pdf/10.1145/3746252.3761057)
+    [[arXiv]](https://arxiv.org/abs/2509.00710)
+
+
 
 ### 7.3 LLM Safety (Attack and Defense)
+
+1. 2024_NeurIPS Workshop_MathPrompt_Jailbreaking Large Language Models with Symbolic Mathematics.
+
+    [[NeurIPS]](https://neurips.cc/virtual/2024/103288)
+
+2. 2025_arXiv_LogiBreak_Logic Jailbreak: Efficiently Unlocking LLM Safety Restrictions Through  Formal Logical Expression.
+
+    [[arXiv]](https://arxiv.org/abs/2505.13527)
+
+3. 2025_ICLR_R2-Guard_R2-Guard: Robust Reasoning Enhanced LLM Guardrail via Knowledge-Enhanced Logical Reasoning.
+
+    [[OpenReview]](https://openreview.net/forum?id=CkgKSqZbuC)
+    [[arXiv]](https://arxiv.org/abs/2407.05557)
+    [[GitHub]](https://github.com/kangmintong/R-2-Guard)
 
 
 ### 7.4 Hardware Design
 
+1. 2025_NeurIPS_SymRTLO_SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning.
+
+    [[OpenReview]](https://openreview.net/forum?id=XFP5jntOdx)
+    [[arXiv]](https://arxiv.org/abs/2504.10369)
+    [[GitHub]](https://github.com/NellyW8/SymRTLO)
+
+2. 2025_arXiv_AssertionForge_AssertionForge= Enhancing Formal Verification Assertion Generation with Structured Representation os Specifications and RTL.
+
+    [[arXiv]](https://arxiv.org/abs/2503.19174)
+
+3. 2025_arXiv_FLAG_FLAG= Formal and LLM-assisted SVA Generation for Formal Specifications of On-Chip Communication Protocols.
+
+    [[arXiv]](https://arxiv.org/abs/2504.17226)
+
 
 ### 7.5 Program Analysis
 
+1. 2025_ACM on Programming Langauges_AutoBug_Large Language Model Powered Symbolic Execution.
 
+    [[ACM]](https://dl.acm.org/doi/10.1145/3763163)
+    [[arXiv]](https://arxiv.org/abs/2505.13452)
 
+2. 2025_EMNLP_ConstraintLLM_ConstraintLLM= A Neuro-Symbolic Framework for Industrial-Level Constraint Programming.
 
+    [[EMNLP]](https://aclanthology.org/2025.emnlp-main.809/)
+    [[GitHub]](https://github.com/william4s/ConstraintLLM)
 
+3. 2025_arXiv_WARP_Worst-Case Symbolic Constraints Analysis and Generalisation with Large Language Models.
 
-
+    [[arXiv]](https://arxiv.org/abs/2506.08171)
 
 
 
@@ -710,13 +768,19 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 ## Dedicated Benchmark and Environment
 ### Dedicated Benchmark
 
-1. 2022_arXiv_FOLIO-dataset_FOLIO: Natural Language Reasoning with First-Order Logic.
+1. 2024_ACL_NeuBAROCO-dataset_Exploring Reasoning Biases in Large Language Models Through Syllogism= Insights from the NeuBAROCO Dataset.
+    [[ACL]](https://aclanthology.org/2024.findings-acl.950/)
+
+2. 2022_arXiv_FOLIO-dataset_FOLIO: Natural Language Reasoning with First-Order Logic.
    [[EMNLP]](https://aclanthology.org/2024.emnlp-main.1229/)
    [[GitHub]](https://github.com/Yale-LILY/FOLIO)
 
-
-2. 2025_ICLR_LFC-dataset_Logical Consistencyh of Large Language Models in Fact-Checking.
+3. 2025_ICLR_LFC-dataset_Logical Consistencyh of Large Language Models in Fact-Checking.
    [[ICLR]](https://openreview.net/forum?id=SimlDuN0YT)
+
+4. 2025_ICLR_ProverGen (ProverQA-dataset)_Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation.
+    [[ICLR]](https://iclr.cc/virtual/2025/poster/30534)
+    [[arXiv]](https://arxiv.org/abs/2502.06563)
 
 
 ### Dedicated Environment
@@ -724,7 +788,6 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 1. 2023_NeurIPS_LeanDojo_LeanDojo: Theorem Proving with Retrieval-Augmented Language Models.
    [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html)
    [[GitHub]](https://github.com/lean-dojo/LeanDojo)
-
 
 2. 2025_arXiv_Reasoning Core_Reasoning Core: A Scalable RL Environment for LLM Symbolic Reasoning.
    [[arXiv]](https://arxiv.org/abs/2509.18083)
@@ -739,23 +802,19 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
     [[ACL]](https://aclanthology.org/2023.findings-acl.67/)
     [[GitHub]](https://github.com/jeffhj/LM-reasoning)
 
-
 2. 2024_COLM_Survey_A Survey on Deep Learning for Theorem Proving
 
     [[OpenReview]](https://openreview.net/forum?id=zlw6AHwukB)
     [[arXiv]](https://arxiv.org/abs/2404.09939)
 
-
 3. 2024_arXiv_Survey_Reasoning with Large Language Models: A Survey.
 
     [[arXiv]](https://arxiv.org/abs/2407.11511)
-
 
 4. 2025_IJCAI_Survey_Empowering LLMs with Logical Reasoning: A Comprehensive Survey.
 
     [[IJCAI]](https://www.ijcai.org/proceedings/2025/1155)
     [[arXiv]](https://arxiv.org/abs/2502.15652)
-
 
 5. 2025_IJCAI_Survey_Neuro-Symbolic Artificial Intelligence: Towards Improving the Reasoning Abilities of Large Language Models.
 
@@ -763,22 +822,18 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
     [[arXiv]](https://arxiv.org/abs/2508.13678)
     [[GitHub]](https://github.com/LAMDASZ-ML/Awesome-LLM-Reasoning-with-NeSy)
 
-
 6. 2025_arXiv_Survey_Logical Reasoning in Large Language Models= A Survey
 
     [[arXiv]](https://arxiv.org/abs/2502.09100)
-
 
 7. 2025_arXiv_Survey_LLM Inference Enhanced by External Knowledge: A Survey.
 
     [[arXiv]](https://arxiv.org/abs/2505.24377)
     [[GitHub]](https://github.com/MiuLab/KG-Survey)
 
-
 8. 2025_OpenReview_Survey_A Survey on Enhancing Large Language Models with Symbolic Reasoning.
 
     [[OpenReview]](https://openreview.net/forum?id=exg4ByWdrM)
-
 
 9. 2025_CSUR_Survey_A Survey of Reasoning with Foundation Models.
 
