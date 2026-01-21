@@ -65,7 +65,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[ICLR]](https://openreview.net/forum?id=FiyS0ecSm0)
    [[GitHub]](https://github.com/Lizn-zn/NeqLIPS)
 
-5. 2025_arXiv_HybridProver_HybridProver= Augmenting Theorem Proving with LLM-Driven Proof Synthesis and Refinement.
+5. 2025_arXiv_HybridProver_HybridProver: Augmenting Theorem Proving with LLM-Driven Proof Synthesis and Refinement.
 
    [[arXiv]](https://arxiv.org/abs/2505.15740)
 
@@ -92,7 +92,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 ### 2.2 ITP (Interactive Theorem Proving)
 
-1. 2024_arXiv_Lean Copilot_Lean Copilot= Large Language Models as Copilots for Theorem Proving in Lean.
+1. 2024_arXiv_Lean Copilot_Lean Copilot: Large Language Models as Copilots for Theorem Proving in Lean.
 
    [[arXiv]](https://arxiv.org/abs/2404.12534)
 
@@ -128,13 +128,13 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[NeruIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8678da90126aa58326b2fc0254b33a8c-Abstract-Conference.html)
    [[arXiv]](https://arxiv.org/abs/2411.12498)
 
-5. 2025_ICLR_CLOVER_Divide and Translate= Compositional First-Order Lgoic Translation and Verification for Complex Logical Reasoning.
+5. 2025_ICLR_CLOVER_Divide and Translate: Compositional First-Order Lgoic Translation and Verification for Complex Logical Reasoning.
 
     [[ICLR]](https://proceedings.iclr.cc/paper_files/paper/2025/hash/3e592c571de69a43d7a870ea89c7e33a-Abstract-Conference.html)
     [[OpenReview]](https://openreview.net/forum?id=09FiNmvNMw)
     [[arXiv]](https://arxiv.org/abs/2410.08047)
 
-6. 2025_ACL_Aristotle_Aristotle=Mastering Logical Reasoning with A LogicComplete Decompose-Search-Resolve Framework.
+6. 2025_ACL_Aristotle_Aristotle: Mastering Logical Reasoning with A LogicComplete Decompose-Search-Resolve Framework.
 
     [[ACL]](https://aclanthology.org/2025.acl-long.153/)
 
@@ -175,7 +175,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
     [[EMNLP]](https://aclanthology.org/2022.emnlp-main.82/)
     [[arXiv]](https://arxiv.org/abs/2205.11822)
 
-4. 2025_ICML_REPAIR_Aligning with Logic= Measuring, Evaluating and Improving Logical Preference Consistency in Large Language Models.
+4. 2025_ICML_REPAIR_Aligning with Logic: Measuring, Evaluating and Improving Logical Preference Consistency in Large Language Models.
 
     [[ICML]](https://proceedings.mlr.press/v267/liu25u.html)
 
@@ -229,7 +229,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 #### 5.1.2 Grounded
 
-1. 2025_ICML workshop_SPG_Sketch-Plan-Generalize= Learning and Planning with Neuro-Symbolic Programmatic Representations for Inductive Spatial Concepts.
+1. 2025_ICML workshop_SPG_Sketch-Plan-Generalize: Learning and Planning with Neuro-Symbolic Programmatic Representations for Inductive Spatial Concepts.
 
     [[OpenReview]](https://openreview.net/forum?id=pTOQwAQ14h)
     [[arXiv]](https://arxiv.org/abs/2404.07774)
@@ -283,7 +283,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 ### 6.2 Fact Verification
 
-1. 2024_TACL_TabVer_TabVer= Tabular Fact Verification with Natural Logic.
+1. 2024_TACL_TabVer_TabVer: Tabular Fact Verification with Natural Logic.
 
     [[TACL]](https://aclanthology.org/2024.tacl-1.89/)
 
@@ -319,16 +319,16 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[IEEE]](https://ieeexplore.ieee.org/document/10385557)
 
-3. 2024_BIBM_ArgMed-Agents_ArgMed-Agents= Explainable Clinical Decision Reasoning with LLM Discussion via Argumentation Schemes.
+3. 2024_BIBM_ArgMed-Agents_ArgMed-Agents: Explainable Clinical Decision Reasoning with LLM Discussion via Argumentation Schemes.
 
     [[IEEE]](https://ieeexplore.ieee.org/document/10822109?denied=)
     [[arXiv]](https://arxiv.org/abs/2403.06294)
 
-4. 2025_arXiv_Perceptual-CoT_From Metaphor to Mechanism= How LLMs Decode Traditional Chinese Medicine Symbolic Language for Modern Clinical Relevance.
+4. 2025_arXiv_Perceptual-CoT_From Metaphor to Mechanism: How LLMs Decode Traditional Chinese Medicine Symbolic Language for Modern Clinical Relevance.
 
     [[arXiv]](https://arxiv.org/abs/2503.02760?)
 
-5. 2026_AAAI_Concept-RuleNet_Concept-RuleNet= Grounded Multi-Agent Neurosymbolic Reasoning in Visioni Language Models.
+5. 2026_AAAI_Concept-RuleNet_Concept-RuleNet: Grounded Multi-Agent Neurosymbolic Reasoning in Visioni Language Models.
 
     [[arXiv]](https://arxiv.org/abs/2511.11751)
 
@@ -343,7 +343,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[arXiv]](https://arxiv.org/abs/2502.17638)
 
-3. 2025_CIKM_SOLAR_On Verifiable Legal Reasoning_On Verifiable Legal Reasoning= A Multi-Agent Framework with Formalized Knowledge Representations.
+3. 2025_CIKM_SOLAR_On Verifiable Legal Reasoning_On Verifiable Legal Reasoning: A Multi-Agent Framework with Formalized Knowledge Representations.
 
     [[ACM CIKM]](https://dl.acm.org/doi/pdf/10.1145/3746252.3761057)
     [[arXiv]](https://arxiv.org/abs/2509.00710)
@@ -375,11 +375,11 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
     [[arXiv]](https://arxiv.org/abs/2504.10369)
     [[GitHub]](https://github.com/NellyW8/SymRTLO)
 
-2. 2025_arXiv_AssertionForge_AssertionForge= Enhancing Formal Verification Assertion Generation with Structured Representation os Specifications and RTL.
+2. 2025_arXiv_AssertionForge_AssertionForge: Enhancing Formal Verification Assertion Generation with Structured Representation os Specifications and RTL.
 
     [[arXiv]](https://arxiv.org/abs/2503.19174)
 
-3. 2025_arXiv_FLAG_FLAG= Formal and LLM-assisted SVA Generation for Formal Specifications of On-Chip Communication Protocols.
+3. 2025_arXiv_FLAG_FLAG: Formal and LLM-assisted SVA Generation for Formal Specifications of On-Chip Communication Protocols.
 
     [[arXiv]](https://arxiv.org/abs/2504.17226)
 
@@ -391,7 +391,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
     [[ACM]](https://dl.acm.org/doi/10.1145/3763163)
     [[arXiv]](https://arxiv.org/abs/2505.13452)
 
-2. 2025_EMNLP_ConstraintLLM_ConstraintLLM= A Neuro-Symbolic Framework for Industrial-Level Constraint Programming.
+2. 2025_EMNLP_ConstraintLLM_ConstraintLLM: A Neuro-Symbolic Framework for Industrial-Level Constraint Programming.
 
     [[EMNLP]](https://aclanthology.org/2025.emnlp-main.809/)
     [[GitHub]](https://github.com/william4s/ConstraintLLM)
@@ -499,7 +499,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 2. 2025_arXiv_Steering LLMs for Formal Theorem Proving.
    [[arXiv]](https://arxiv.org/abs/2502.15507)
 
-3. 2025_arXiv_HybridProver_HybridProver= Augmenting Theorem Proving with LLM-Driven Proof Synthesis and Refinement.
+3. 2025_arXiv_HybridProver_HybridProver: Augmenting Theorem Proving with LLM-Driven Proof Synthesis and Refinement.
    [[arXiv]](https://arxiv.org/abs/2505.15740)
 
 4. 2025_ICLR_ProverGen_Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation.
@@ -522,7 +522,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 ### 4.2 Application
 #### 4.2.1 SMT & Constraint-based Reasoning
 
-1. 2023_NeurIPS_SATLM_SATLM= Satisfiability-Aided Language Models Using Declarative Prompting.
+1. 2023_NeurIPS_SATLM_SATLM: Satisfiability-Aided Language Models Using Declarative Prompting.
    [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e9c7d4a48bdac81a58f983a64aaf42b-Abstract-Conference.html)
    [[GitHub]](https://github.com/xiye17/SAT-LM)
 
@@ -822,7 +822,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
     [[arXiv]](https://arxiv.org/abs/2508.13678)
     [[GitHub]](https://github.com/LAMDASZ-ML/Awesome-LLM-Reasoning-with-NeSy)
 
-6. 2025_arXiv_Survey_Logical Reasoning in Large Language Models= A Survey
+6. 2025_arXiv_Survey_Logical Reasoning in Large Language Models: A Survey
 
     [[arXiv]](https://arxiv.org/abs/2502.09100)
 
