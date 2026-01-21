@@ -42,6 +42,17 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 ## 2. Theorem Proving (TP)
 
+<p align="center">
+    <img src="./figs/fig_3.png" alt="fig_3" width="500" />
+</p>
+<br>
+
+<p align="center">
+    <img src="./figs/fig_4.png" alt="fig_4" width="500" />
+</p>
+<br>
+
+
 ### 2.1 ATP (Automated Theorem Proving)
 
 #### 2.1.1 Direct
@@ -105,6 +116,11 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 ### 3.1 Logical Inference Verification
 
+<p align="center">
+    <img src="./figs/fig_5.png" alt="fig_5" width="500" />
+</p>
+<br>
+
 1. 2023_EMNLP_LINC_LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers.
 
    [[EMNLP]](https://aclanthology.org/2023.emnlp-main.313/)
@@ -140,6 +156,11 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 
 ### 3.2 Compound Constraint Solving
+
+<p align="center">
+    <img src="./figs/fig_6.png" alt="fig_6" width="500" />
+</p>
+<br>
 
 1. 2023_NeurIPS_SATLM_SATLM: Satisfiability-Aided Language Models Using Declarative Prompting.
 
@@ -202,6 +223,11 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 ## 5. Planning and Searching
 
+<p align="center">
+    <img src="./figs/fig_7.png" alt="fig_7" width="500" />
+</p>
+<br>
+
 ### 5.1 Planning for Actions
 
 #### 5.1.1 Ungrounded
@@ -253,6 +279,11 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 
 ## 6. Normalized Tabular Reasoning
+
+<p align="center">
+    <img src="./figs/fig_8.png" alt="fig_8" width="500" />
+</p>
+<br>
 
 ### 6.1 Question Answering (QA)
 
@@ -401,6 +432,10 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
     [[arXiv]](https://arxiv.org/abs/2506.08171)
 
 
+<p align="center">
+    <img src="./figs/tab_1.png" alt="tab_1" width="500" />
+</p>
+<br>
 
 
 
