@@ -226,8 +226,78 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 
 
+
 ### 4.2 External Knowledge Consistency
 
+1. 2023_EMNLP_REFLEX_Language Models with Rationality.
+
+    [[EMNLP]](https://aclanthology.org/2023.emnlp-main.877/)
+    [[OpenReview]](https://openreview.net/forum?id=6j7JZnEzf4)
+    [[arXiv]](https://arxiv.org/abs/2305.14250)
+
+
+2. 2025_ICLR_LoCo-LMs_Logically Consistent Language Models via Neuro-Symbolic Integration.
+
+    [[OpenReview]](https://openreview.net/forum?id=7PGluppo4k)
+    [[arXiv]](https://arxiv.org/abs/2409.13724)
+    [[GitHUb]](https://github.com/ddidacus/loco-llm)
+
+
+3. 2025_ICLR_LLMQuery_Logical Consistency of Large Language Models in Fact-Checking.
+
+    [[OpenReview]]()
+    [[arXiv]](https://arxiv.org/abs/2412.16100)
+
+
+
+
+## 5. Planning and Searching
+
+### 5.1 Planning for Actions
+
+#### 5.1.1 Ungrounded
+
+
+
+#### 5.1.2 Grounded
+
+
+
+
+### 5.2 (MCTS-based) Searching for Reasoning Path
+
+
+
+
+
+
+## 6. Normalized Tabular Reasoning
+
+### 6.1 Question Answering (QA)
+
+
+### 6.2 Fact Verification
+
+
+### 6.3 Temporal Reasoning 
+
+
+
+## 7. Real-World Applications
+
+### 7.1 Medical 
+
+
+### 7.2 Law (Legal Reasoning)
+
+
+### 7.3 LLM Safety (Attack and Defense)
+
+
+### 7.4 Hardware Design
+
+
+### 7.5 Program Analysis
 
 
 
@@ -238,55 +308,35 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 
 
-
-
-
-
-
-
-
-
+<!--
 
 ## 2. Symbolic Formalization
-
 
 <p align="center">
     <img src="./figs/fig_3.png" alt="fig_3" width="500" />
 </p>
 
-
 ### 2.1 Formal Logic Translation and Specification
 #### 2.1.1 Direct
-
 
 1. 2023_ICML_FLD_Learning Deductive Reasoning from Synthetic Corpus based on Formal Logic.
    [[ICML]](https://proceedings.mlr.press/v202/morishita23a.html)
    [[GitHub]](https://github.com/hitachi-nlp/FLD)
-
 
 2. 2023_NeurIPS_Parsel_Parsel: Algorithmic Reasoning with Language Models by Composing Decompositions.
    [[NeurlPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6445dd88ebb9a6a3afa0b126ad87fe41-Abstract-Conference.html)
    [[GitHub]](https://github.com/ezelikman/parsel)
    [[Homepage]](http://zelikman.me/parselpaper/)
 
-
 3. 2024_ACL_LogicLLaMA_Harnessing the Power of Large Language Models for Natural Language to First-Order Logic Translation.
    [[ACL]](https://aclanthology.org/2024.acl-long.375/)
    [[GitHub]](https://github.com/gblackout/LogicLLaMA)
    
 
-
-<!-- 下面paper未写进Survey -->
-
-
 #### 2.1.2 DSL Design
 
 1. 2024_ACL_AutoDSL_AutoDSL: Automated Domain-Specific Language Design for Structural Representation of Procedures with Constraints.
    [[ACL]](https://aclanthology.org/2024.acl-long.659/)
-
-
-<!-- 下面paper未写进Survey -->
-
 
 
 ### 2.2 Formal Verification and Consistency Checking
@@ -304,9 +354,6 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 4. 2025_NAACL workshop_Integrating Symbolic Execution into the Fine-Tuning of Code-Generating LLMs.
    [[NAACL workshop]](https://aclanthology.org/2025.naacl-srw.27/)
-   
-   
-
 
 
 ## 3. Logic Programming
@@ -314,7 +361,6 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 <p align="center">
     <img src="./figs/fig_4.png" alt="fig_4" width="500" />
 </p>
-
 
 ### 3.1 Answer Set Programming (ASP)
 
@@ -331,25 +377,14 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[GitHub]](https://github.com/naiqili/Logic-of-Thought)
 
 
-<!-- 下面paper未写进Survey -->
-
-
-
 ### 3.2 Programming in Logic (Prolog)
 
 1. 2024_arXiv_Thought-Like-Pro_Thought-Like-Pro: Enhancing Reasoning of Large Language Models through Self-Driven Prolog-based Chain-of-Thought.
    [[arXiv]](https://arxiv.org/abs/2407.14562)
-   
 
 2. 2024_IJCNN_ChatLogic_ChatLogic: Integrating Logic Programming with Large Language Models for Multi-Step Reasoning.
    [[IJCNN]](https://ieeexplore.ieee.org/abstract/document/10650138)
    [[GitHub]](https://github.com/Strong-AI-Lab/ChatLogic)
-
-
-<!-- 下面paper未写进Survey -->
-
-
-
 
 
 ## 4. Theorem Proving
@@ -365,22 +400,15 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[arXiv]](https://arxiv.org/abs/2502.08908)
    [[GitHub]](https://github.com/zhilingluo/theorem_prover)
 
-
 2. 2025_arXiv_Steering LLMs for Formal Theorem Proving.
    [[arXiv]](https://arxiv.org/abs/2502.15507)
-
 
 3. 2025_arXiv_HybridProver_HybridProver= Augmenting Theorem Proving with LLM-Driven Proof Synthesis and Refinement.
    [[arXiv]](https://arxiv.org/abs/2505.15740)
 
-
 4. 2025_ICLR_ProverGen_Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation.
    [[ICLR]](https://openreview.net/forum?id=C25SgeXWjE)
    [[GitHub]](https://github.com/opendatalab/ProverGen)
-
-
-<!-- 下面paper未写进Survey -->
-
 
 
 
@@ -390,18 +418,9 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[Nature]](https://www.nature.com/articles/s41586-023-06747-5)
    [[GitHub]](https://github.com/google-deepmind/alphageometry)
 
-
-3. 2025_ICLR_LIPS_Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning.
+2. 2025_ICLR_LIPS_Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning.
    [[ICLR]](https://openreview.net/forum?id=FiyS0ecSm0)
    [[GitHub]](https://github.com/Lizn-zn/NeqLIPS)
-
-
-
-<!-- 下面paper未写进Survey -->
-
-
-
-
 
 
 ### 4.2 Application
@@ -411,20 +430,11 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e9c7d4a48bdac81a58f983a64aaf42b-Abstract-Conference.html)
    [[GitHub]](https://github.com/xiye17/SAT-LM)
 
-
 2. 2025_arXiv_LLM-based Satisfiability Checking of String Requirements by Consistent Data and Chekcer Generation.
    [[arXiv]](https://arxiv.org/abs/2506.16639)
 
-
 3. 2025_arXiv_WARP_Worst-Case Symbolic Constraints Analysis and Generalisation with Large Language Models.
    [[arXiv]](https://arxiv.org/abs/2506.08171)
-
-
-
-<!-- 下面paper未写进Survey -->
-
-
-
 
 
 #### 4.2.2 Autoformalization
@@ -433,57 +443,38 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[EMNLP]](https://aclanthology.org/2023.findings-emnlp.248/)
    [[GitHub]](https://github.com/teacherpeterpan/Logic-LLM)
 
-
 2. 2024_ICLR_DTV_Don't Trust: Verify-Grounding LLM Quantitative Reasoning with Autoformalization.
    [[ICLR]](https://openreview.net/forum?id=V5tdi14ple)
    [[GitHub]](https://github.com/jinpz/dtv)
-
 
 3. 2025_NeurlPS_HAR&CoPA_Bootstrapping Hierarchical Autoregressive Formal Reasoner with Chain-of-Proxy-Autoformalization.
    [[NeurlPS]](https://openreview.net/forum?id=2Xn8h68mP3)
    [[GitHub]](https://github.com/Purewhite2019/har_copa_main)
 
 
-<!-- 下面paper未写进Survey -->
-
-
-
-
 #### 4.2.3 Symbolic CoT & Interfaces
-
 
 1. 2023_ICLR_BINDER_Binding Language Models in Symbolic Languages.
    [[ICLR]](https://openreview.net/forum?id=lH1PV42cbF)
    [[Homepage]](https://lm-code-binder.github.io/)
    [[GitHub]](https://github.com/xlang-ai/Binder)
 
-
 2. 2024_ACL_Graph-CoT_Graph Chain-of-Thought: Augmenting Large Language Models by Reasoning on Graphs.
    [[ACL]](https://aclanthology.org/2024.findings-acl.11/)
    [[GitHub]](https://github.com/PeterGriffinJin/Graph-CoT)
-
 
 3. 2024_ACL_SymbCoT_Faithful Logical Reasoning via Symbolic Chain-of-Thought.
    [[ACL]](https://aclanthology.org/2024.acl-long.720/)
    [[GitHub]](https://github.com/Aiden0526/SymbCoT)
 
-
 4. 2024_ACL_Symbol-LLM_Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models.
    [[ACL]](https://aclanthology.org/2024.acl-long.707/)
    [[Homepage]](https://xufangzhi.github.io/symbol-llm-page/)
    [[GitHub]](https://github.com/xufangzhi/Symbol-LLM)
-
    
 5. 2024_COLM_CoS_Chain-of-Symbol Prompting for Spatial Reasoning in Large Language Models.
    [[COLM]](https://openreview.net/forum?id=Hvq9RtSoHG)
    [[GitHub]](https://github.com/hanxuhu/chain-of-symbol-planning)
-
-   
-
-
-<!-- 下面paper未写进Survey -->
-
-
 
 
 #### 4.2.4 Iteration-based Reasoning
@@ -492,16 +483,9 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[ICLR]](https://openreview.net/forum?id=Ep0TtjVoap)
    [[GitHub]](https://github.com/microsoft/ToRA)
 
-
 2. 2025_arXiv_APOLLO_APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning.
    [[arXiv]](https://arxiv.org/abs/2505.05758)
    [[GitHub]](https://github.com/aziksh-ospanov/APOLLO)
-
-
-
-<!-- 下面paper未写进Survey -->
-
-
 
 
 #### 4.2.5 Uncertainty Reasoning
@@ -509,12 +493,6 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 1. 2025_AAAI_BLInD_Reasoning over Uncertain Text by Generative Large Language Models.
    [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/34674)
    [[GitHub]](https://github.com/HLR/BLInD)
-   
-
-<!-- 下面paper未写进Survey -->
-
-
-
 
 
 ## 5. Neuro-Symbolic Integration
@@ -530,20 +508,13 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[NAACL]](https://aclanthology.org/2024.findings-naacl.259/)
    [[GitHub]](https://github.com/luohongyin/LangCode)
 
-   
 2. 2025_arXiv_VERUS-LM_VERUS-LM: a Versatile Framework for Combining LLMs with Symbolic Reasoning.
    [[arXiv]](https://arxiv.org/abs/2501.14540)
    [[GitHub]](https://gitlab.com/EAVISE/bca/verus-lm)
-
-
+   
 3. 2025_ICLR_LoCo_Logically Consistent Language Models via Neuro-Symbolic Integration.
    [[ICLR]](https://openreview.net/forum?id=7PGluppo4k)
    [[GitHub]](https://github.com/ddidacus/loco-llm)
-
-
-
-<!-- 下面paper未写进Survey -->
-
 
 
 ### 5.2 Learning-Level
@@ -552,17 +523,9 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[arXiv]](https://arxiv.org/abs/2406.11736)
    [[GitHub]](https://github.com/xufangzhi/ENVISIONS)
 
-
 2. 2024_AAAI_LLMSymbolic_Large language models are neurosymbolic reasoners.
    [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/29754)
    [[GitHub]](https://github.com/hyintell/LLMSymbolic)
-
-
-
-
-
-<!-- 下面paper未写进Survey -->
-
 
 
 ### 5.3 Knowledge-Level
@@ -570,26 +533,16 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 1. 2025_arXiv_LeSR_Large Language Model-Enhanced Symbolic Reasoning for Knowledge Base Completion.
    [[arXiv]](https://arxiv.org/abs/2501.01246)
 
-
 2. 2025_NAACL_CaRing_Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs.
    [[NAACL]](https://aclanthology.org/2025.findings-naacl.317/)
    [[GitHub]](https://github.com/DAMO-NLP-SG/CaRing)
-
 
 3. 2025_NAACL_SymBa_SymBa: Symbolic Backward Chaining for Structured Natural Language Reasoning.
    [[NAACL]](https://aclanthology.org/2025.naacl-long.124/)
    [[GitHub]](https://github.com/lbox-kr/symba)
 
-
 4. 2025_WWW_SymAgent_SymAgent: A Neural-Symbolic Self-Learning Agent Framework for Complex Reasoning over Knowledge Graphs.
    [[WWW]](https://dl.acm.org/doi/abs/10.1145/3696410.3714768)
-
-
-
-
-
-<!-- 下面paper未写进Survey -->
-
 
 
 ### 5.4 Special Domain Integration
@@ -598,15 +551,8 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 1. 2023_arXiv_Coupling Symbolic Reasoning with Language Modeling for Efficient Longitudinal Understanding of Unstructured Electronic Medical Records.
    [[arXiv]](https://arxiv.org/abs/2308.03360)
 
-
 2. 2023_BIBM_Integrating Automated Knowledge Extraction with Large Language Models for Explainable Medical Decision-Making.
    [[BIBM]](https://ieeexplore.ieee.org/abstract/document/10385557/)
-
-
-
-
-<!-- 下面paper未写进Survey -->
-
 
 
 #### 5.4.2 Others
@@ -614,16 +560,8 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 1. 2025_arXiv_Towards Robust Legal Reasoning: Harnessing Logical LLMs in Law.
    [[arXiv]](https://arxiv.org/abs/2502.17638)
    
-
 2. 2025_NeurIPS_SymRTLO_SymRTLO: Enhancing RTL Code Optimization with LLMs and Neuron-Inspired Symbolic Reasoning.
    [[arXiv]](https://arxiv.org/abs/2504.10369)
-
-
-<!-- 下面paper未写进Survey -->
-
-
-
-
 
 
 ## 6. Planning and Search-guided Reasoning
@@ -638,39 +576,27 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[arXiv]](https://arxiv.org/abs/2304.11477)
    [[GitHub]](https://github.com/Cranial-XIX/llm-pddl)
 
-
-<!-- 2023_EMNLP_SPC未写进Survey -->
 2. 2023_EMNLP_SPC_Symbolic Planning and Code Generation for Grounded Dialogue.
    [[EMNLP]](https://aclanthology.org/2023.emnlp-main.460/)
-
 
 3. 2023_NeurIPS_LLM-DM_Leveraging Pre-trained Large Language Models to Construct and Utilize World Models for Model-based Task Planning.
    [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f9f54762cbb4fe4dbffdd4f792c31221-Abstract-Conference.html)
    [[GitHub]](https://guansuns.github.io/pages/llm-dm/)
 
-
 4. 2025_AAAI_Planning in the Dark: LLM-Symbolic Planning Pipeline Without Experts.
    [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/34855)
    [[GitHub]](https://github.com/Sino-Huang/Official-LLM-Symbolic-Planning-without-Experts)
-
 
 5. 2025_ICML workshop_SPG_Sketch-Plan-Generalize: Learning and Planning with Neuro-Symbolic Programmatic Representations for Inductive Spatial Concepts.
    [[ICML workshop]](https://openreview.net/forum?id=pTOQwAQ14h)
    [[arXiv]](https://arxiv.org/abs/2404.07774)
 
-
 6. 2025_NAACL_PSALM_Language Models Can Infer Action Semantics for Symbolic Planners from Environment Feedback.
    [[NAACL]](https://aclanthology.org/2025.naacl-long.440/)
-   
 
 7. 2025_NeurIPS_InstructFlow_InstructFlow: Adaptive Symbolic Constraint-Guided Code Generation for Long-Horizon Planning.
    [[ICML wrkshop]](https://openreview.net/forum?id=wr47LsSUjH&noteId=wr47LsSUjH)
    [[NeurlPS]](https://openreview.net/forum?id=nzwjvpCO4F)
-
-
-
-<!-- 下面paper未写进Survey -->
-
 
 
 ### 6.2 Search-based Reasoning
@@ -680,15 +606,8 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[Homepage]](https://jinyangwu.github.io/hiar-icl/)
    [[GitHub]](https://github.com/jinyangwu/HiARICL)
 
-
 2. 2025_arXiv_Symbolic ReAct_Enhancing Logical Reasoning in Language Models via Symbolically-Guided Monte Carlo Process Supervision.
    [[arXiv]](https://arxiv.org/abs/2505.20415)
-
-
-
-<!-- 下面paper未写进Survey -->
-
-
 
 
 ## 7. Program Synthesis
@@ -698,33 +617,22 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[ACL]](https://aclanthology.org/2023.findings-acl.364/)
    [[GitHub]](https://github.com/vedantgaur/Symbolic-MWP-Reasoning)
 
-
 2. 2023_NeurIPS workshop_Solving Math Word Problems by Combining Language Models With Symbolic Solvers.
    [[NeurIPS workshop]](https://openreview.net/forum?id=m7m14acWQi)
    [[arXiv]](https://arxiv.org/abs/2304.09102)
    [[GitHub]](https://github.com/joyheyueya/declarative-math-word-problem)
 
-
 3. 2023_TMLR_PoT_Program of Thougths Prompting: Disentangling Computation from Reasoning for Numerical Reasoning Tasks.
    [[TMLR]](https://openreview.net/forum?id=YfZ4ZPt8zd)
    [[GitHub]](https://github.com/TIGER-AI-Lab/Program-of-Thoughts)
-
 
 4. 2024_AAAI_SYRELM_Frugal LMs Trained to Invoke Symbolic Solvers Achieve Parameter-Efficient Arithmetic Reasoning.
    [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/29750)
    [[GitHub]](https://github.com/joykirat18/SYRELM)
 
-
 5. 2024_NeurIPS Workshop_Math2Sym_Math2Sym: A System for Solving Elementary Problems via Large Language Mdoels and Symbolic Solvers.
    [[NeurIPS Workshop]](https://openreview.net/forum?id=eQrkAPcGRF&noteId=eQrkAPcGRF)
    [[GitHub]](https://github.com/pepoo20/Math2Sym)
-   
-   
-
-
-
-<!-- 下面paper未写进Survey -->
-
 
 
 ### 7.2 General-Purpose Programming Code
@@ -733,46 +641,36 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[ICML]](https://proceedings.mlr.press/v202/gao23f)
    [[Homepage]](https://reasonwithpal.com/)
    [[https://github.com/reasoning-machines/pal]]
+
    
-
-
-
-
-<!-- 下面paper未写进Survey -->
-
-
 ## 8. Tabular
 
 <p align="center">
     <img src="./figs/fig_8.png" alt="fig_8" width="500" />
 </p>
 
-
 1. 2024_EMNLP_NormTab_NormTab: Improving Symbolic Reasoning in LLMs Through Tabular Data Normalization.
    [[EMNLP]](https://aclanthology.org/2024.findings-emnlp.203/)
    [[GitHub]](https://github.com/mahadi-nahid/NormTab)
-
 
 2. 2024_NAACL_TabSQLify_TabSQLify: Enhancing Reasoning Capabilities of LLMs Through Table Decomposition.
    [[NAACL]](https://aclanthology.org/2024.naacl-long.320/)
    [[GitHub]](https://github.com/mahadi-nahid/TabSQLify)
 
-
 3. 2025_ACL_RelationalCoder_RelationalCoder: Rethinking Complex Tables via Programmatic Relational Transformation.
    [[ACL]](https://aclanthology.org/2025.acl-long.89/)
    [[GitHub]](https://github.com/haoyudong/RelationalCoder)
 
-
 4. 2025_SIGIR_TabFormer_Reasoning and Retrieval for Complex Semi-structured Tables via Reinforced Relational Data Transformation.
    [[SIGIR]](https://dl.acm.org/doi/abs/10.1145/3726302.3730071)
-   
-   
+
+   -->
    
 
+   
 
-
-## 9. Dedicated Benchmark and Environment
-### 9.1 Dedicated Benchmark
+## Dedicated Benchmark and Environment
+### Dedicated Benchmark
 
 1. 2022_arXiv_FOLIO-dataset_FOLIO: Natural Language Reasoning with First-Order Logic.
    [[EMNLP]](https://aclanthology.org/2024.emnlp-main.1229/)
@@ -783,29 +681,17 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
    [[ICLR]](https://openreview.net/forum?id=SimlDuN0YT)
 
 
-
-<!-- 下面paper未写进Survey -->
-
-
-### 9.2 Dedicated Environment
+### Dedicated Environment
 
 1. 2023_NeurIPS_LeanDojo_LeanDojo: Theorem Proving with Retrieval-Augmented Language Models.
    [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html)
    [[GitHub]](https://github.com/lean-dojo/LeanDojo)
 
 
-
-3. 2025_arXiv_Reasoning Core_Reasoning Core: A Scalable RL Environment for LLM Symbolic Reasoning.
+2. 2025_arXiv_Reasoning Core_Reasoning Core: A Scalable RL Environment for LLM Symbolic Reasoning.
    [[arXiv]](https://arxiv.org/abs/2509.18083)
    [[GitHub]](https://github.com/sileod/reasoning_core)
    
-
-
-
-<!-- 下面paper未写进Survey -->
-
-
-
 
 
 ## Related Survey
@@ -864,9 +750,6 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 
 
-
-
-
 ## 📖 Citation
 
 If you compare with, build on, or use aspects of this work, please cite the following:
@@ -874,7 +757,7 @@ If you compare with, build on, or use aspects of this work, please cite the foll
 ```
 @article{li2025survey,
   title={A Survey on LLM Symbolic Reasoning},
-  author={Li, Jindong and Fu, Yali and Yang, Yang and Liu, Jiahong and Zhang, Hongce and Li, Haoxuan and Yue, Yutao and Yang, Menglin},
+  author={Li, Jindong and Fu, Yali and Cheng Fengxiang and Yang, Yang and Liu, Jiahong and Zhang, Hongce and Yue, Yutao and Yang, Menglin and Li, Haoxuan and Pan, Liangming and Lin, Zhouchen},
   journal={Authorea Preprints},
   year={2025},
   publisher={Authorea}
