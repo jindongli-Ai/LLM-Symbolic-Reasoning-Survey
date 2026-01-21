@@ -43,12 +43,12 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 ## 2. Theorem Proving (TP)
 
 <p align="center">
-    <img src="./figs/fig_3.png" alt="fig_3" width="500" />
+    <img src="./figs/fig_3.png" alt="fig_3" width="450" />
 </p>
 <br>
 
 <p align="center">
-    <img src="./figs/fig_4.png" alt="fig_4" width="500" />
+    <img src="./figs/fig_4.png" alt="fig_4" width="450" />
 </p>
 <br>
 
@@ -117,7 +117,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 ### 3.1 Logical Inference Verification
 
 <p align="center">
-    <img src="./figs/fig_5.png" alt="fig_5" width="500" />
+    <img src="./figs/fig_5.png" alt="fig_5" width="450" />
 </p>
 <br>
 
@@ -158,7 +158,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 ### 3.2 Compound Constraint Solving
 
 <p align="center">
-    <img src="./figs/fig_6.png" alt="fig_6" width="500" />
+    <img src="./figs/fig_6.png" alt="fig_6" width="450" />
 </p>
 <br>
 
@@ -224,7 +224,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 ## 5. Planning and Searching
 
 <p align="center">
-    <img src="./figs/fig_7.png" alt="fig_7" width="500" />
+    <img src="./figs/fig_7.png" alt="fig_7" width="450" />
 </p>
 <br>
 
@@ -281,7 +281,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 ## 6. Normalized Tabular Reasoning
 
 <p align="center">
-    <img src="./figs/fig_8.png" alt="fig_8" width="500" />
+    <img src="./figs/fig_8.png" alt="fig_8" width="450" />
 </p>
 <br>
 
@@ -433,7 +433,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 
 <p align="center">
-    <img src="./figs/tab_1.png" alt="tab_1" width="500" />
+    <img src="./figs/tab_1.png" alt="tab_1" width="1000" />
 </p>
 <br>
 
