@@ -146,9 +146,9 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 3. 2024_ICLR_DTV_Don't Trust: Verify-Grounding LLM Quantitative Reasoning with Autoformalization.
 
-   [[ICLR]](https://proceedings.iclr.cc/paper_files/paper/2024/hash/0a79ecda13603817de4cdfc68b417e89-Abstract-Conference.html)
-   [[arXiv]](https://arxiv.org/abs/2403.18120)
-   [[GitHub]](https://github.com/jinpz/dtv)
+    [[ICLR]](https://proceedings.iclr.cc/paper_files/paper/2024/hash/0a79ecda13603817de4cdfc68b417e89-Abstract-Conference.html)
+    [[arXiv]](https://arxiv.org/abs/2403.18120)
+    [[GitHub]](https://github.com/jinpz/dtv)
 
 
 4. 2024_NeurIPS_ALT_Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus.
@@ -167,6 +167,78 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 6. 2025_ACL_Aristotle_Aristotle=Mastering Logical Reasoning with A LogicComplete Decompose-Search-Resolve Framework.
 
     [[ACL]](https://aclanthology.org/2025.acl-long.153/)
+
+
+
+
+
+
+### 3.2 Compound Constraint Solving
+
+1. 2023_NeurIPS_SATLM_SATLM: Satisfiability-Aided Language Models Using Declarative Prompting.
+
+    [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8e9c7d4a48bdac81a58f983a64aaf42b-Abstract-Conference.html)
+    [[arXiv]](https://arxiv.org/abs/2305.09656)
+    [[GitHub]](https://github.com/xiye17/SAT-LM)
+
+
+2. 2025_NeurlPS_HAR&CoPA_Bootstrapping Hierarchical Autoregressive Formal Reasoner with Chain-of-Proxy-Autoformalization.
+
+    [[NeruIPS]](https://neurips.cc/virtual/2025/loc/san-diego/poster/120138)
+    [[GitHub]](https://github.com/Purewhite2019/har_copa_main)
+
+
+3. 2025_arXiv_Loop-Invariant-Generation_Loop-Invariant-Generation: A Hybrid Fraemwork of Reasoning Optimised LLMs and SMT Solvers.
+
+    [[arXiv]](https://arxiv.org/abs/2508.00419)
+
+
+
+
+
+
+
+
+## 4. Consistency Checking
+
+### 4.1 Internal Self-Consistency
+
+1. 2021_EMNLP_BeliefBank_BeliefBank: Adding Memory to a Pre-Trained Language Model for a Systematic Notion of Belief.
+
+    [[EMNLP]](https://aclanthology.org/2021.emnlp-main.697/)
+    [[arXiv]](https://arxiv.org/abs/2109.14723)
+
+
+2. 2022_EMNLP_ConCoRD_Enhancing Self-Consistency and Performance of Pre-Trained Language Models through Natural Language Inference.
+
+    [[EMNLP]](https://aclanthology.org/2022.emnlp-main.115/)
+
+
+3. 2022_EMNLP_Maieutic Prompting_Maieutic Prompting: Logically Consistent Reasoning with Recursive Explanations.
+
+    [[EMNLP]](https://aclanthology.org/2022.emnlp-main.82/)
+    [[arXiv]](https://arxiv.org/abs/2205.11822)
+
+
+4. 2025_ICML_REPAIR_Aligning with Logic= Measuring, Evaluating and Improving Logical Preference Consistency in Large Language Models.
+
+    [[ICML]](https://proceedings.mlr.press/v267/liu25u.html)
+
+
+
+### 4.2 External Knowledge Consistency
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
