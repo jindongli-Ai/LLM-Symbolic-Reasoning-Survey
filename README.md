@@ -114,8 +114,59 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 ### 2.2 ITP
 
+1. 2024_arXiv_Lean Copilot_Lean Copilot= Large Language Models as Copilots for Theorem Proving in Lean.
+
+   [[arXiv]](https://arxiv.org/abs/2404.12534)
 
 
+2. 2024_EMNLP_BC-Prover_BC-Prover: Backward Chaining Prover for Formal Theorem Proving.
+
+   [[EMNLP]](https://aclanthology.org/2024.emnlp-main.180/)
+
+
+
+
+## 3. Satisfiability Solving
+
+### 3.1 Logical Inference Verification
+
+1. 2023_EMNLP_LINC_LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers.
+
+   [[EMNLP]](https://aclanthology.org/2023.emnlp-main.313/)
+   [[arXiv]](https://arxiv.org/abs/2305.12295)
+   [[GitHub]](https://github.com/teacherpeterpan/Logic-LLM)
+
+
+2. 2023_EMNLP_Logic-LM_Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning
+
+    [[EMNLP]](https://aclanthology.org/2023.findings-emnlp.248/)
+    [[arXiv]](https://arxiv.org/abs/2305.12295)
+    [[GitHub]](https://github.com/teacherpeterpan/Logic-LLM)
+
+
+3. 2024_ICLR_DTV_Don't Trust: Verify-Grounding LLM Quantitative Reasoning with Autoformalization.
+
+   [[ICLR]](https://proceedings.iclr.cc/paper_files/paper/2024/hash/0a79ecda13603817de4cdfc68b417e89-Abstract-Conference.html)
+   [[arXiv]](https://arxiv.org/abs/2403.18120)
+   [[GitHub]](https://github.com/jinpz/dtv)
+
+
+4. 2024_NeurIPS_ALT_Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus.
+
+   [[NeruIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8678da90126aa58326b2fc0254b33a8c-Abstract-Conference.html)
+   [[arXiv]](https://arxiv.org/abs/2411.12498)
+
+
+5. 2025_ICLR_CLOVER_Divide and Translate= Compositional First-Order Lgoic Translation and Verification for Complex Logical Reasoning.
+
+    [[ICLR]](https://proceedings.iclr.cc/paper_files/paper/2025/hash/3e592c571de69a43d7a870ea89c7e33a-Abstract-Conference.html)
+    [[OpenReview]](https://openreview.net/forum?id=09FiNmvNMw)
+    [[arXiv]](https://arxiv.org/abs/2410.08047)
+
+
+6. 2025_ACL_Aristotle_Aristotle=Mastering Logical Reasoning with A LogicComplete Decompose-Search-Resolve Framework.
+
+    [[ACL]](https://aclanthology.org/2025.acl-long.153/)
 
 
 
