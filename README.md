@@ -59,57 +59,57 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 1. 2025_arXiv_Reinforced Large Language Model is A Formal Theorem Prover.
    
-   [[arXiv]](https://arxiv.org/abs/2502.08908)
-   [[GitHub]](https://github.com/zhilingluo/theorem_prover)
+    [[arXiv]](https://arxiv.org/abs/2502.08908)
+    [[GitHub]](https://github.com/zhilingluo/theorem_prover)
 
 2. 2025_arXiv_Steering LLMs for Formal Theorem Proving.
 
-   [[arXiv]](https://arxiv.org/abs/2502.15507)
+    [[arXiv]](https://arxiv.org/abs/2502.15507)
 
 3. 2024_Nature_AlphaGeometry_Solving Olympiad Geometry without Human Demonstrations.
 
-   [[Nature]](https://www.nature.com/articles/s41586-023-06747-5)
-   [[GitHub]](https://github.com/google-deepmind/alphageometry)
+    [[Nature]](https://www.nature.com/articles/s41586-023-06747-5)
+    [[GitHub]](https://github.com/google-deepmind/alphageometry)
 
 4. 2025_ICLR_LIPS_Proving Olympiad Inequalities by Synergizing LLMs and Symbolic Reasoning.
 
-   [[ICLR]](https://openreview.net/forum?id=FiyS0ecSm0)
-   [[GitHub]](https://github.com/Lizn-zn/NeqLIPS)
+    [[ICLR]](https://openreview.net/forum?id=FiyS0ecSm0)
+    [[GitHub]](https://github.com/Lizn-zn/NeqLIPS)
 
 5. 2025_arXiv_HybridProver_HybridProver: Augmenting Theorem Proving with LLM-Driven Proof Synthesis and Refinement.
 
-   [[arXiv]](https://arxiv.org/abs/2505.15740)
+    [[arXiv]](https://arxiv.org/abs/2505.15740)
 
 
 #### 2.1.2 Decomposed
 
 1. 2025_Nature_AlphaProof_Olympial-Level Formal Mathematical Reasoning with Reinforcement Learning.
 
-   [[Nature]](https://www.nature.com/articles/s41586-025-09833-y)
+    [[Nature]](https://www.nature.com/articles/s41586-025-09833-y)
 
 2. 2025_arXiv_APOLLO_APOLLO: Automated LLM and Lean Collaboration for Advanced Formal Reasoning.
 
-   [[arXiv]](https://arxiv.org/abs/2505.05758)
-   [[GitHub]](https://github.com/aziksh-ospanov/APOLLO)
+    [[arXiv]](https://arxiv.org/abs/2505.05758)
+    [[GitHub]](https://github.com/aziksh-ospanov/APOLLO)
 
 3. 2025_EMNLP_DREAM_Towards Advanced Mathematical Reasoning for LLMs via First-Order Logic Theorem Proving.
 
-   [[EMNLP]](https://aclanthology.org/2025.emnlp-main.628/)
+    [[EMNLP]](https://aclanthology.org/2025.emnlp-main.628/)
 
 4. 2025_arXiv_DeepSeek-Porver-V2_DeepSeek-Porver-V2: Advancing Formal Mathematical Reasoning via Reinforcement Learning for Subgoal Decomposition.
 
-   [[arXiv]](https://arxiv.org/abs/2504.21801)
+    [[arXiv]](https://arxiv.org/abs/2504.21801)
 
 
 ### 2.2 ITP (Interactive Theorem Proving)
 
 1. 2024_arXiv_Lean Copilot_Lean Copilot: Large Language Models as Copilots for Theorem Proving in Lean.
 
-   [[arXiv]](https://arxiv.org/abs/2404.12534)
+    [[arXiv]](https://arxiv.org/abs/2404.12534)
 
 2. 2024_EMNLP_BC-Prover_BC-Prover: Backward Chaining Prover for Formal Theorem Proving.
 
-   [[EMNLP]](https://aclanthology.org/2024.emnlp-main.180/)
+    [[EMNLP]](https://aclanthology.org/2024.emnlp-main.180/)
 
 
 ## 3. Satisfiability Solving (SAT)
@@ -123,9 +123,9 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 1. 2023_EMNLP_LINC_LINC: A Neurosymbolic Approach for Logical Reasoning by Combining Language Models with First-Order Logic Provers.
 
-   [[EMNLP]](https://aclanthology.org/2023.emnlp-main.313/)
-   [[arXiv]](https://arxiv.org/abs/2305.12295)
-   [[GitHub]](https://github.com/teacherpeterpan/Logic-LLM)
+    [[EMNLP]](https://aclanthology.org/2023.emnlp-main.313/)
+    [[arXiv]](https://arxiv.org/abs/2305.12295)
+    [[GitHub]](https://github.com/teacherpeterpan/Logic-LLM)
 
 2. 2023_EMNLP_Logic-LM_Logic-LM: Empowering Large Language Models with Symbolic Solvers for Faithful Logical Reasoning
 
@@ -141,8 +141,8 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
 4. 2024_NeurIPS_ALT_Enhancing Reasoning Capabilities of LLMs via Principled Synthetic Logic Corpus.
 
-   [[NeruIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8678da90126aa58326b2fc0254b33a8c-Abstract-Conference.html)
-   [[arXiv]](https://arxiv.org/abs/2411.12498)
+    [[NeruIPS]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/8678da90126aa58326b2fc0254b33a8c-Abstract-Conference.html)
+    [[arXiv]](https://arxiv.org/abs/2411.12498)
 
 5. 2025_ICLR_CLOVER_Divide and Translate: Compositional First-Order Lgoic Translation and Verification for Complex Logical Reasoning.
 
@@ -804,16 +804,20 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 ### Dedicated Benchmark
 
 1. 2024_ACL_NeuBAROCO-dataset_Exploring Reasoning Biases in Large Language Models Through Syllogism= Insights from the NeuBAROCO Dataset.
-    [[ACL]](https://aclanthology.org/2024.findings-acl.950/)
 
+    [[ACL]](https://aclanthology.org/2024.findings-acl.950/)
+   
 2. 2022_arXiv_FOLIO-dataset_FOLIO: Natural Language Reasoning with First-Order Logic.
-   [[EMNLP]](https://aclanthology.org/2024.emnlp-main.1229/)
-   [[GitHub]](https://github.com/Yale-LILY/FOLIO)
+
+    [[EMNLP]](https://aclanthology.org/2024.emnlp-main.1229/)
+    [[GitHub]](https://github.com/Yale-LILY/FOLIO)
 
 3. 2025_ICLR_LFC-dataset_Logical Consistencyh of Large Language Models in Fact-Checking.
-   [[ICLR]](https://openreview.net/forum?id=SimlDuN0YT)
+
+    [[ICLR]](https://openreview.net/forum?id=SimlDuN0YT)
 
 4. 2025_ICLR_ProverGen (ProverQA-dataset)_Large Language Models Meet Symbolic Provers for Logical Reasoning Evaluation.
+
     [[ICLR]](https://iclr.cc/virtual/2025/poster/30534)
     [[arXiv]](https://arxiv.org/abs/2502.06563)
 
@@ -821,12 +825,14 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 ### Dedicated Environment
 
 1. 2023_NeurIPS_LeanDojo_LeanDojo: Theorem Proving with Retrieval-Augmented Language Models.
-   [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html)
-   [[GitHub]](https://github.com/lean-dojo/LeanDojo)
+
+    [[NeurIPS]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/4441469427094f8873d0fecb0c4e1cee-Abstract-Datasets_and_Benchmarks.html)
+    [[GitHub]](https://github.com/lean-dojo/LeanDojo)
 
 2. 2025_arXiv_Reasoning Core_Reasoning Core: A Scalable RL Environment for LLM Symbolic Reasoning.
-   [[arXiv]](https://arxiv.org/abs/2509.18083)
-   [[GitHub]](https://github.com/sileod/reasoning_core)
+
+    [[arXiv]](https://arxiv.org/abs/2509.18083)
+    [[GitHub]](https://github.com/sileod/reasoning_core)
    
 
 
