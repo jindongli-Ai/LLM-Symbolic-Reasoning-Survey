@@ -6,11 +6,14 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 <div align="center">
 
+[![](https://img.shields.io/badge/📑-Survey_Paper-blue)](https://arxiv.org/abs/2502.11528)
+<a href="https://arxiv.org/" target="_blank"><img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-009688.svg" alt="arXiv"></a>
 ![](https://img.shields.io/github/stars/jindongli-Ai/LLM-Symbolic-Reasoning-Survey?color=yellow&cacheSeconds=60)
 ![](https://img.shields.io/github/forks/jindongli-Ai/LLM-Symbolic-Reasoning-Survey?color=lightblue)
+<img src="https://badges.pufler.dev/visits/jindongli-Ai/LLM-Symbolic-Reasoning-Survey?style=flat-square&logo=github">
 ![](https://img.shields.io/github/last-commit/jindongli-Ai/LLM-Symbolic-Reasoning-Survey?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-blue)
-<a href="https://arxiv.org/" target="_blank"><img src="https://img.shields.io/badge/arXiv-xxxx.xxxxx-009688.svg" alt="arXiv"></a>
+
 
 </div>
 
