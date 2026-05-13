@@ -892,12 +892,11 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 If you compare with, build on, or use aspects of this work, please cite the following:
 
 ```
-@article{li2025survey,
+@inproceedings{li2026survey,
   title={A Survey on LLM Symbolic Reasoning},
-  author={Li, Jindong and Fu, Yali and Cheng Fengxiang and Yang, Yang and Liu, Jiahong and Zhang, Hongce and Yue, Yutao and Yang, Menglin and Li, Haoxuan and Pan, Liangming and Lin, Zhouchen},
-  journal={Authorea Preprints},
-  year={2025},
-  publisher={Authorea}
+  author={Li, Jindong and Fu, Yali and Yang, Yang and Liu, Jiahong and Zhang, Hongce and Li, Haoxuan and Yue, Yutao and Yang, Menglin},
+  booktitle={Logical and Symbolic Reasoning in Language Models@ AAAI 2026},
+  year={2026}
 }
 ```
 
