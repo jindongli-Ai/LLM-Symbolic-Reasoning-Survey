@@ -103,6 +103,11 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[arXiv]](https://arxiv.org/abs/2504.21801)
 
+5. 2026_arXiv_ICML_WZ-LLM_Automated Formal Proofs of Combinatorial Identities via Wilf–Zeilberger Guidance and LLMs
+
+    [[arXiv]](https://arxiv.org/abs/2605.04472)
+   
+
 
 ### 2.2 ITP (Interactive Theorem Proving)
 
@@ -157,6 +162,11 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[ACL]](https://aclanthology.org/2025.acl-long.153/)
 
+7. 2026_ICLR_MAD-Logic=Multi-Agent Debate Enhances Symbolic Translation and Reasoning
+
+   [[ICLR]](https://openreview.net/forum?id=3pkSTLDiHo)
+   
+
 
 ### 3.2 Compound Constraint Solving
 
@@ -202,6 +212,10 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 4. 2025_ICML_REPAIR_Aligning with Logic: Measuring, Evaluating and Improving Logical Preference Consistency in Large Language Models.
 
     [[ICML]](https://proceedings.mlr.press/v267/liu25u.html)
+
+5. 2026_ICLR Workshop_LogicVault= Persistent Symbolic Belief States for Cross-Query Logical Consistency in LLMs
+
+   [[ICLR Workshop]](https://openreview.net/forum?id=3pkSTLDiHoarX)
 
 
 ### 4.2 External Knowledge Consistency
@@ -254,6 +268,10 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[NAACL]](https://aclanthology.org/2025.naacl-long.440/)
 
+5. 2026_arXiv_L-ICL_Localizing and Correcting Errors for LLM-based Planners
+
+   [[arXiv]](https://arxiv.org/abs/2602.00276)
+
 
 
 #### 5.1.2 Grounded
@@ -267,6 +285,19 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[OpenReview]](https://openreview.net/forum?id=nzwjvpCO4F)
 
+3. 2026_ICLR_NL-PDDL_Natural Language PDDL (NL-PDDL) for Open-world Goal-oriented Commonsense Regression Planning in Embodied AI
+
+    [[ICLR]](https://openreview.net/forum?id=kWCNhRdcDI)
+
+4. 2026_ICLR_VIRF_Grounding Generative Planners In Verifiable Logic=A Hybrid Architecture For Trustworthy Embodied AI
+
+    [[ICLR]](https://openreview.net/forum?id=kWCNhRdcDI)
+    [[arXiv]](https://arxiv.org/abs/2602.08373)
+    
+
+
+
+
 
 ### 5.2 (MCTS-based) Searching for Reasoning Path
 
@@ -279,6 +310,12 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[EMNLP]](https://aclanthology.org/2025.emnlp-main.1624/)
     [[arXiv]](https://arxiv.org/abs/2505.20415)
+
+
+3. 2026_AAAI_SPIRAL=Symbolic LLM Planning via Grounded and Reflective Search
+   
+    [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/40975)
+   
 
 
 ## 6. Normalized Tabular Reasoning
@@ -314,6 +351,9 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[NAACL]](https://aclanthology.org/2025.naacl-long.445/)
 
+6. 2026_arXiv_ASTRA=Adaptive Semantic Tree Reasoning Architecture for Complex Table Question Answering
+    [[arXiv]](https://arxiv.org/abs/2604.08999)
+
 
 ### 6.2 Fact Verification
 
@@ -328,6 +368,13 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 3. 2025_SIGIR_TabFormer_Reasoning and Retrieval for Complex Semi-structured Tables via Reinforced Relational Data Transformation.
 
     [[SIGIR]](https://dl.acm.org/doi/10.1145/3726302.3730071)
+
+4. 2026_EACL_Analyzing LLM Instruction Optimization for Tabular Fact Verification
+
+    [[EACL]](https://aclanthology.org/2026.findings-eacl.161/)
+    [[arXiv]](https://arxiv.org/abs/2602.17937)
+
+   
 
 
 ### 6.3 Temporal Reasoning 
