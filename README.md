@@ -103,7 +103,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[arXiv]](https://arxiv.org/abs/2504.21801)
 
-5. 2026_arXiv_ICML_WZ-LLM_Automated Formal Proofs of Combinatorial Identities via Wilf–Zeilberger Guidance and LLMs.
+5. 2026_ICML_WZ-LLM_Automated Formal Proofs of Combinatorial Identities via Wilf–Zeilberger Guidance and LLMs.
 
     [[arXiv]](https://arxiv.org/abs/2605.04472)
    
@@ -162,7 +162,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[ACL]](https://aclanthology.org/2025.acl-long.153/)
 
-7. 2026_ICLR_MAD-Logic=Multi-Agent Debate Enhances Symbolic Translation and Reasoning.
+7. 2026_ICLR_MAD-Logic_MAD-Logic: Multi-Agent Debate Enhances Symbolic Translation and Reasoning.
 
    [[ICLR]](https://openreview.net/forum?id=3pkSTLDiHo)
    
@@ -213,7 +213,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[ICML]](https://proceedings.mlr.press/v267/liu25u.html)
 
-5. 2026_ICLR Workshop_LogicVault= Persistent Symbolic Belief States for Cross-Query Logical Consistency in LLMs.
+5. 2026_ICLR Workshop_LogicVault_LogicVault: Persistent Symbolic Belief States for Cross-Query Logical Consistency in LLMs.
 
    [[ICLR Workshop]](https://openreview.net/forum?id=3pkSTLDiHoarX)
 
@@ -312,7 +312,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
     [[arXiv]](https://arxiv.org/abs/2505.20415)
 
 
-3. 2026_AAAI_SPIRAL=Symbolic LLM Planning via Grounded and Reflective Search.
+3. 2026_AAAI_SPIRAL_SPIRAL: Symbolic LLM Planning via Grounded and Reflective Search.
    
     [[AAAI]](https://ojs.aaai.org/index.php/AAAI/article/view/40975)
    
@@ -351,7 +351,7 @@ History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/13
 
     [[NAACL]](https://aclanthology.org/2025.naacl-long.445/)
 
-6. 2026_arXiv_ASTRA=Adaptive Semantic Tree Reasoning Architecture for Complex Table Question Answering.
+6. 2026_arXiv_ASTRA_ASTRA: Adaptive Semantic Tree Reasoning Architecture for Complex Table Question Answering.
     [[arXiv]](https://arxiv.org/abs/2604.08999)
 
 
