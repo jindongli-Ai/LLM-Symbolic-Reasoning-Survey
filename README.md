@@ -17,10 +17,15 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
 </div>
 
-<!--
-History Version: [[TechRxiv]](https://www.techrxiv.org/users/1002499/articles/1367055-a-survey-on-llm-symbolic-reasoning)
-<br>
--->
+
+
+
+<div align="center">
+    [AAAI Bridge][https://openreview.net/forum?id=L3zwjjdI1x] <br>
+    [TechRxiv][https://www.techrxiv.org/doi/full/10.36227/techrxiv.176538331.19733376] <br>
+    [PaperWeekly][https://mp.weixin.qq.com/s/UXKNw5P88doGXnTTeBkuKw]
+</div>
+
 
 
 
