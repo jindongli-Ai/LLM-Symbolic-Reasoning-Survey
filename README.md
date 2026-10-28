@@ -170,7 +170,13 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 7. 2026_ICLR_MAD-Logic_MAD-Logic: Multi-Agent Debate Enhances Symbolic Translation and Reasoning.
 
    [[ICLR]](https://openreview.net/forum?id=3pkSTLDiHo)
-   
+
+8. 2024_IJCNN_ChatLogic_ChatLogic: Integrating Logic Programming with Large Language Models for Multi-Step Reasoning.
+
+    [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10650138/)
+    [[arXiv]](https://arxiv.org/abs/2407.10162)
+    [[GitHub]](https://github.com/Strong-AI-Lab/ChatLogic)
+
 
 
 ### 3.2 Compound Constraint Solving
@@ -876,6 +882,29 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
     [[ICLR]](https://iclr.cc/virtual/2025/poster/30534)
     [[arXiv]](https://arxiv.org/abs/2502.06563)
 
+5. 2024_IJCAI_Large language models are not strong abstract reasoners.
+
+    [[IJCAI]](https://www.ijcai.org/proceedings/2024/0693.pdf)
+    [[arXiv]](https://arxiv.org/abs/2305.19555)
+    [[GitHub]](https://github.com/Strong-AI-Lab/Logical-and-abstract-reasoning)
+
+6. 2022_ACL_AbductionRules_AbductionRules: Training Transformers to Explain Unexpected Inputs.
+
+    [[ACL]](https://aclanthology.org/2022.findings-acl.19/)
+    [[arXiv]](https://arxiv.org/abs/2203.12186)
+    [[GitHub]](https://github.com/Strong-AI-Lab/AbductionRules)
+
+7. 2022_IJCLR_Multi-Step Deductive Reasoning Over Natural Language: An Empirical Study on Out-of-Distribution Generalisation.
+
+    [[arXiv]](https://arxiv.org/abs/2207.14000)
+    [[GitHub]](https://github.com/Strong-AI-Lab/Multi-Step-Deductive-Reasoning-Over-Natural-Language)
+
+8. 2024_ICONIP_Assessing and Enhancing the Robustness of Large Language Models with Task Structure Variations for Logical Reasoning.
+
+    [[Springer]](https://link.springer.com/chapter/10.1007/978-981-96-6603-4_22)
+    [[arXiv]](https://arxiv.org/abs/2310.09430)
+    [[GitHub]](https://github.com/Strong-AI-Lab/Logical-and-abstract-reasoning)
+
 
 ### Dedicated Environment
 
@@ -935,6 +964,10 @@ The official GitHub page for the survey paper "A Survey on LLM Symbolic Reasonin
 
     [[ACM Computing Surveys]](https://dl.acm.org/doi/full/10.1145/3729218)
     [[arXiv]](https://arxiv.org/abs/2312.11562)
+
+10. 2025_PhD Thesis_Developing And Assessing Language Models For Logical Reasoning Over Natural Language.
+
+    [[University of Auckland Research Repository]](https://researchspace.auckland.ac.nz/items/c137d667-49c5-4fa4-9da0-c2e74e3d426f)
 
 
 
